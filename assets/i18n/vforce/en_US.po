@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English (Vforce)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-17 09:16+1300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.2\n"
+
+#: web
+#: web-logging-auditLog
+#: web-site-info
+#, i18next-interpolation
+msgid "AuditLog"
+msgstr "VF Audit Logging"
+
+#, i18next-interpolation
+msgid "abort_hold"
+msgstr "VF Abort Cycle"
+
+#: web
+#: web-site-info
+#, i18next-interpolation
+msgid "AuditLog.resize"
+msgstr "VF Resize Log"
