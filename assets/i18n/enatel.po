@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English(Enatel Common File)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-1709: 16+1300\n"
+"PO-Revision-Date: YEAR-MO-DAHO: MI+ZONE\n"
+"Last-Translator: FULLNAME<EMAIL@ADDRESS>\n"
+"Language-Team: Enatel\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain;charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n!=1;\n"
+"X-Generator: Weblate4.11.2\n"
+
+#: web
+#, i18next-interpolation
+msgid "error.input.duration"
+msgstr "Invalid Duration Format"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeout.idle.countdown"
+msgstr "You will be logged out in"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeout.idle.warning"
+msgstr "You're about to be logged out !"
+
+#: web
+#, i18next-interpolation
+msgid "ui.units.seconds"
+msgstr "seconds"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.chargelog.last15.entries"
+msgstr "Last 15 Charge Log Entries "
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "cell"
+msgstr "Cell"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.menu.status.self"
+msgstr "Status"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.menu.status.status"
+msgstr "Overview"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.disconnected"
+msgstr "Battery Disconnected"
