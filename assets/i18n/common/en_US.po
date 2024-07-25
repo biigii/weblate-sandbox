@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English(Common File)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-1709: 16+1300\n"
+"PO-Revision-Date: YEAR-MO-DAHO: MI+ZONE\n"
+"Last-Translator: FULLNAME<EMAIL@ADDRESS>\n"
+"Language-Team: Enatel\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain;charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n!=1;\n"
+"X-Generator: Weblate4.11.2\n"
+
+#: web
+#, i18next-interpolation
+msgid "error.input.duration"
+msgstr "Invalid Duration Format"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeout.idle.countdown"
+msgstr "You will be logged out in"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeout.idle.warning"
+msgstr "You're about to be logged out !"
+
+#: web
+#, i18next-interpolation
+msgid "ui.units.seconds"
+msgstr "seconds"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.chargelog.last15.entries"
+msgstr "Last 15 Charge Log Entries "
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "cell"
+msgstr "Cell"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.menu.status.self"
+msgstr "Status"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.menu.status.status"
+msgstr "Overview"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.disconnected"
+msgstr "Battery Disconnected"
+
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "battery.chargeahr"
+msgstr "Charge Ah"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "battery.connectedtime"
+msgstr "Connected Time"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "battery.current"
+msgstr "Battery Current"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.ac"
+msgstr "AC"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.chargerclock"
+msgstr "Charger Clock"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.deviceserial"
+msgstr "Device Serial"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.processorsoftwarev"
+msgstr "Processor Software Version"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.iosoftwarev"
+msgstr "IO Board Software Version"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.iosoftwareerror"
+msgstr "IO Board Software Error"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.last"
+msgstr "Last"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.days.ago"
+msgstr "days ago"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.hours.ago"
+msgstr "hours ago"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.minutes.ago"
+msgstr "minutes ago"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.chargelogentries"
+msgstr "Charge Log Entries"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.connected"
+msgstr "Connected"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.lan"
+msgstr "Ethernet"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "battery.chargeah"
+msgstr "Charge Ah"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.alarms"
+msgstr "Alarms"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.showmodulealarms"
+msgstr "Show Module Alarms"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.modulealarms"
+msgstr "Module Alarms"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.showalarms"
+msgstr "Show Alarms"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.equalisestate"
+msgstr "Equalize Status"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "ui.overview.autowaterstate"
+msgstr "Auto Watering Status"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.manual"
+msgstr "Set Auto Water"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.manual"
+msgstr "Set Equalize"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.state.inactive"
+msgstr "Inactive"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.inactive"
+msgstr "Inactive"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.state.blockedonequalise"
+msgstr "Blocked - Equalize"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.state.inprogress"
+msgstr "In Progress"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.inprogress"
+msgstr "In Progress"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.blockedontemperature"
+msgstr "Blocked - Temperature"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.blockedonwaterlevel"
+msgstr "Blocked - Water Level"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.state.pending"
+msgstr "Pending"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.pending"
+msgstr "Pending"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "autowater.state.complete"
+msgstr "Complete"
+
+#: Status,Overview
+#, i18next-interpolation
+msgid "equalise.state.complete"
+msgstr "Complete"
+
+#: 
+#, i18next-interpolation
+msgid "ui.menu.status.demand-response"
+msgstr "Demand Response"
+
+#: 
+#, i18next-interpolation
+msgid "ui.demand-response.individual"
+msgstr "Charger Information"
+
+#: 
+#, i18next-interpolation
+msgid "ui.demand-response.group-controller"
+msgstr "Group Information"
+
+#: 
+#, i18next-interpolation
+msgid "system.prioritisechargerprompt"
+msgstr "Prioritising this charger may exceed the DRM group limit"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.menu.reports.self"
+msgstr "Reports"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.menu.reports.activity-log"
+msgstr "Alarm Log"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.previous"
+msgstr "Previous"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.today"
+msgstr "Today"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.next"
+msgstr "Next"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.menu.reports.time"
+msgstr "Time"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.allalarms"
+msgstr "All Alarms"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.urgentalarms"
+msgstr "Urgent Alarms"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.nonurgentalarms"
+msgstr "Non-Urgent Alarms"
+
+#: Reports,AlarmLog,ChargeLog
+#, i18next-interpolation
+msgid "ui.activitylog.selectall"
+msgstr "Select All"
+
+#: Reports,AlarmLog,ChargeLog
+#, i18next-interpolation
+msgid "ui.activitylog.clearall"
+msgstr "Clear All"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.selectnone"
+msgstr "Select None"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.empty"
+msgstr "No events found"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.emptyday"
+msgstr "No alarm logged for this day"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.activitylog.filterby.type"
+msgstr "Filter By Type"
+
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.empty"
+msgstr "There are no Alarm Logs for this Period"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.close"
+msgstr "Close"
+
+#: Reports,AlarmLog
+#, i18next-interpolation
+msgid "ui.overview.readingbatteryvalues"
+msgstr "Reading Battery Values"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.menu.reports.charge-log"
+msgstr "Charge Log"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.loading.chargelog"
+msgstr "Loading Charge Logs"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.lifetimecounters"
+msgstr "Lifetime Counters"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.totalcycles"
+msgstr "Total Cycles"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.completedcycles"
+msgstr "Completed Cycles"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.equalisecycles"
+msgstr "Equalize Cycles"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.autowatercycles"
+msgstr "Auto Water Cycles"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.lifetimeah"
+msgstr "Lifetime Charge"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "charger.lifetimeenergy"
+msgstr "Lifetime Energy"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.hideoptions"
+msgstr "Hide Options"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.showoptions"
+msgstr "Show Options"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.state.on"
+msgstr "ON"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.state.off"
+msgstr "OFF"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.starttimestamp"
+msgstr "Start Time"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.finishtime"
+msgstr "Finish Time"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.firmwareversion"
+msgstr "Software Version"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.configuredvoltage"
+msgstr "Nominal Battery Voltage (V)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.configuredcapacity"
+msgstr "Configured Capacity (Ah)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.configuredcurrent"
+msgstr "Maximum Charge Current (A)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.profile"
+msgstr "Charge Profile"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.connectedtime"
