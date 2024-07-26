@@ -14,442 +14,276 @@ msgstr ""
 "X-Generator: Weblate4.11.2\n"
 
 #: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "error.input.duration"
-msgstr "Invalid Duration Format"
+msgid "drm.options.allowoverridepanel"
+msgstr "Manually Allow Charging using Front Panel Interface"
 
 #: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.timeout.idle.countdown"
-msgstr "You will be logged out in"
+msgid "drm.options.allowremovalpanel"
+msgstr "Remove Charger from Group using Front Panel Interface"
 
 #: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.timeout.idle.warning"
-msgstr "You're about to be logged out !"
+msgid "drm.template.enable"
+msgstr "Time Variable Template Builder"
 
 #: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.units.seconds"
-msgstr "seconds"
+msgid "drm.template.show"
+msgstr "Show"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.chargelog.last15.entries"
-msgstr "Last 15 Charge Log Entries "
+msgid "drm.template.hide"
+msgstr "Hide"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "cell"
-msgstr "Cell"
+msgid "drm.period.limit"
+msgstr "Power Limit"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.menu.status.self"
-msgstr "Status"
+msgid "drm.period.midnight"
+msgstr "Midnight"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.menu.status.status"
-msgstr "Overview"
+msgid "drm.period.a"
+msgstr "A"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.disconnected"
-msgstr "Battery Disconnected"
+msgid "drm.period.b"
+msgstr "B"
 
-
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "battery.chargeahr"
-msgstr "Charge Ah"
+msgid "drm.period.c"
+msgstr "C"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "battery.connectedtime"
-msgstr "Connected Time"
+msgid "drm.period.d"
+msgstr "D"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "battery.current"
-msgstr "Battery Current"
+msgid "drm.period.e"
+msgstr "E"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.ac"
-msgstr "AC"
+msgid "drm.period.f"
+msgstr "F"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.chargerclock"
-msgstr "Charger Clock"
+msgid "drm.period.g"
+msgstr "G"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.deviceserial"
-msgstr "Device Serial"
+msgid "drm.period.h"
+msgstr "H"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.processorsoftwarev"
-msgstr "Processor Software Version"
+msgid "drm.period.i"
+msgstr "I"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.iosoftwarev"
-msgstr "IO Board Software Version"
+msgid "drm.networking.status"
+msgstr "Connection Status"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.iosoftwareerror"
-msgstr "IO Board Software Error"
+msgid "drm.networking.disabled"
+msgstr "Disabled"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.last"
-msgstr "Last"
+msgid "drm.networking.syncing"
+msgstr "Syncing with Group Controller"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.days.ago"
-msgstr "days ago"
+msgid "drm.networking.controller"
+msgstr "Group Controller"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.hours.ago"
-msgstr "hours ago"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.minutes.ago"
-msgstr "minutes ago"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.overview.chargelogentries"
-msgstr "Charge Log Entries"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.overview.connected"
+msgid "drm.networking.connected"
 msgstr "Connected"
 
-#: Status,Overview
+#: web
+#: web-demandrespose
 #, i18next-interpolation
-msgid "ui.overview.lan"
+msgid "drm.networking.scanning"
+msgstr "Scanning"
+
+#: Reports,DRMLog
+#, i18next-interpolation
+msgid "drm.opengroupcontrollertext"
+msgstr "Logs are not available in participant chargers, Please visit group controller."
+
+#, i18next-interpolation
+msgid "enabled"
+msgstr "Enabled"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.reloadbutton"
+msgstr "Reload page"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.title"
+msgstr "Restarting monitor"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.message"
+msgstr ""
+"The monitor is now restarting, and will be available shortly. Once it is "
+"ready, you will be redirected to the login screen."
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.step1restarting"
+msgstr "Waiting for monitor to restart"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.step2checking"
+msgstr "Checking connection"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.step3redirecting"
+msgstr "Redirecting"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.restart.connecterror"
+msgstr ""
+"Unable to connect. The monitor may have failed to boot, or otherwise become "
+"unreachable at this address."
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.title"
+msgstr "Upgrading firmware"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.message1"
+msgstr ""
+"The system is now installing the firmware upgrade, and will reboot shortly. "
+"Please refrain from using the interface until the upgrade process is "
+"complete, as you may experience loss of connection and data corruption."
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.message2"
+msgstr ""
+"Once the upgrade is complete, you will be redirected to the new firmware."
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.step1installing"
+msgstr "Installing firmware upgrade"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.step2checking"
+msgstr "Checking connection"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.step3redirecting"
+msgstr "Redirecting"
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.upgrade.error"
+msgstr ""
+"Unable to connect. The firmware upgrade may have failed, or the monitor is "
+"otherwise unreachable at this address."
+
+#: web
+#: web-waiting
+#, i18next-interpolation
+msgid "ui.waiting.remaining"
+msgstr "remaining"
+
+#: web
+#: web-settings
+#, i18next-interpolation
+msgid "ui.upgradefirmware.upload.uploading"
+msgstr "Please wait, uploading your firmware file."
+#: Settings.Network
+#, i18next-interpolation
+msgid "ui.wireless"
+msgstr "Wireless"
+
+#: Settings.Network
+#, i18next-interpolation
+msgid "ui.ethernet"
 msgstr "Ethernet"
-
-#: Status,Overview
+#: Charger.Confifuration
 #, i18next-interpolation
-msgid "battery.chargeah"
-msgstr "Charge Ah"
+msgid "ui.apc.promptforchargerconfig.none"
+msgstr "None"
 
-#: Status,Overview
+#: Charger.Confifuration
 #, i18next-interpolation
-msgid "ui.overview.alarms"
-msgstr "Alarms"
+msgid "ui.apc.promptforchargerconfig.fixed"
+msgstr "Fixed"
 
-#: Status,Overview
+#: Charger.Confifuration
 #, i18next-interpolation
-msgid "ui.overview.showmodulealarms"
-msgstr "Show Module Alarms"
+msgid "ui.apc.promptforchargerconfig.autov"
+msgstr "Auto-V"
 
-#: Status,Overview
+#: Charger.Confifuration
 #, i18next-interpolation
-msgid "ui.overview.modulealarms"
-msgstr "Module Alarms"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.overview.showalarms"
-msgstr "Show Alarms"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.overview.equalisestate"
-msgstr "Equalize Status"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "ui.overview.autowaterstate"
-msgstr "Auto Watering Status"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.manual"
-msgstr "Set Auto Water"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.manual"
-msgstr "Set Equalize"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.state.inactive"
-msgstr "Inactive"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.inactive"
-msgstr "Inactive"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.state.blockedonequalise"
-msgstr "Blocked - Equalize"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.state.inprogress"
-msgstr "In Progress"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.inprogress"
-msgstr "In Progress"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.blockedontemperature"
-msgstr "Blocked - Temperature"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.blockedonwaterlevel"
-msgstr "Blocked - Water Level"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.state.pending"
-msgstr "Pending"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.pending"
-msgstr "Pending"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "autowater.state.complete"
-msgstr "Complete"
-
-#: Status,Overview
-#, i18next-interpolation
-msgid "equalise.state.complete"
-msgstr "Complete"
-
-#: 
-#, i18next-interpolation
-msgid "ui.menu.status.demand-response"
-msgstr "Demand Response"
-
-#: 
-#, i18next-interpolation
-msgid "ui.demand-response.individual"
-msgstr "Charger Information"
-
-#: 
-#, i18next-interpolation
-msgid "ui.demand-response.group-controller"
-msgstr "Group Information"
-
-#: 
-#, i18next-interpolation
-msgid "system.prioritisechargerprompt"
-msgstr "Prioritising this charger may exceed the DRM group limit"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.menu.reports.self"
-msgstr "Reports"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.menu.reports.activity-log"
-msgstr "Alarm Log"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.previous"
-msgstr "Previous"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.today"
-msgstr "Today"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.next"
-msgstr "Next"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.menu.reports.time"
-msgstr "Time"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.allalarms"
-msgstr "All Alarms"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.urgentalarms"
-msgstr "Urgent Alarms"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.nonurgentalarms"
-msgstr "Non-Urgent Alarms"
-
-#: Reports,AlarmLog,ChargeLog
-#, i18next-interpolation
-msgid "ui.activitylog.selectall"
-msgstr "Select All"
-
-#: Reports,AlarmLog,ChargeLog
-#, i18next-interpolation
-msgid "ui.activitylog.clearall"
-msgstr "Clear All"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.selectnone"
-msgstr "Select None"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.empty"
-msgstr "No events found"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.emptyday"
-msgstr "No alarm logged for this day"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.activitylog.filterby.type"
-msgstr "Filter By Type"
-
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.modulealarmlog.empty"
-msgstr "There are no Alarm Logs for this Period"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.close"
-msgstr "Close"
-
-#: Reports,AlarmLog
-#, i18next-interpolation
-msgid "ui.overview.readingbatteryvalues"
-msgstr "Reading Battery Values"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.menu.reports.charge-log"
-msgstr "Charge Log"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.loading.chargelog"
-msgstr "Loading Charge Logs"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.lifetimecounters"
-msgstr "Lifetime Counters"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.totalcycles"
-msgstr "Total Cycles"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.completedcycles"
-msgstr "Completed Cycles"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.equalisecycles"
-msgstr "Equalize Cycles"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.autowatercycles"
-msgstr "Auto Water Cycles"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.lifetimeah"
-msgstr "Lifetime Charge"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "charger.lifetimeenergy"
-msgstr "Lifetime Energy"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.hideoptions"
-msgstr "Hide Options"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.showoptions"
-msgstr "Show Options"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.state.on"
-msgstr "ON"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.state.off"
-msgstr "OFF"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.starttimestamp"
-msgstr "Start Time"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.finishtime"
-msgstr "Finish Time"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.firmwareversion"
-msgstr "Software Version"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.configuredvoltage"
-msgstr "Nominal Battery Voltage (V)"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.configuredcapacity"
-msgstr "Configured Capacity (Ah)"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.configuredcurrent"
-msgstr "Maximum Charge Current (A)"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.profile"
-msgstr "Charge Profile"
-
-#: Reports,ChargeLog
-#, i18next-interpolation
-msgid "ui.chargelog.connectedtime"
+msgid "can.battery.bmidfallback.disabled_message"
+msgstr "BMM fallback disabled while teamed charging is enabled."
