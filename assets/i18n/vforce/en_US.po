@@ -28,3 +28,931 @@ msgstr "VF Abort Cycle"
 #, i18next-interpolation
 msgid "AuditLog.resize"
 msgstr "VF Resize Log"
+
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.cooldowntime"
+msgstr "Cooldown Time"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.startvoltage"
+msgstr "Start Cell Voltage (V)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.endvoltage"
+msgstr "Termination Cell Voltage (V)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.disconnectvoltage"
+msgstr "Disconnection Cell Voltage (V)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.starttemperaturef"
+msgstr "Start Temperature (°F)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.starttemperature"
+msgstr "Start Temperature (°C)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.endtemperaturef"
+msgstr "Termination Temperature (°F)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.endtemperature"
+msgstr "Termination Temperature (°C)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.disconnecttemperaturef"
+msgstr "Disconnection Temperature (°F)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.disconnecttemperature"
+msgstr "Disconnection Temperature (°C)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.endcurrent"
+msgstr "End Current (A)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.startstateofcharge"
+msgstr "Start State of Charge (%)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.endstateofcharge"
+msgstr "Termination State of Charge (%)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.stateofhealth"
+msgstr "State Of Health (%)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.time"
+msgstr "Time"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.title"
+msgstr "Charge Log"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.chargeah"
+msgstr "Capacity Returned (Ah)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.chargeenergy"
+msgstr "Energy Returned (kWh)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.alarms"
+msgstr "Termination Alarm"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.batterymoduleid"
+msgstr "Battery Identifier"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.serialnumber"
+msgstr "BMID Serial Number"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.chargetype"
+msgstr "Charge Type"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.BMID Fallback"
+msgstr "BMM (Fallback)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.BMID Fallback"
+msgstr "BMID (Fallback)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.BMID Bypass"
+msgstr "Fixed (Fallback)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.Auto-Voltage"
+msgstr "Auto-Voltage"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.Auto-Voltage Fallback"
+msgstr "Auto-Voltage (Fallback)"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.Li BMID"
+msgstr "BMID Li"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.BMID"
+msgstr "BMID"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.BMS"
+msgstr "CAN"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "chargetype.Fixed"
+msgstr "Fixed"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.equalisereason"
+msgstr "Equalize Reason"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Water Level Low Inhibit"
+msgstr "Water Level Low Inhibit"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.External Button"
+msgstr "External Button"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Cycle Based"
+msgstr "Cycle Based"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Manual"
+msgstr "Manual"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Simple Delay"
+msgstr "Simple Delay"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Time Based"
+msgstr "Time Based"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.External Button"
+msgstr "External Button"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.After Equalise"
+msgstr "After Equalize"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.Cycle Based"
+msgstr "Cycle Based"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.Manual"
+msgstr "Manual"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.Simple Delay"
+msgstr "Simple Delay"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.Time Based"
+msgstr "Time Based"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.equalisereason.Imbalanced"
+msgstr "Imbalanced"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.autowaterreason"
+msgstr "Auto Water Reason"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.autowaterreason.Low Water"
+msgstr "Low Water"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.empty"
+msgstr "There are no Charge Logs for this Period"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.chargelog.showall"
+msgstr "Show All Logs"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "ui.exportcsv"
+msgstr "Export as CSV"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "^ui.logmsg.found(\\d+)"
+msgstr "Found %1 log entries"
+
+#: Reports,ChargeLog
+#, i18next-interpolation
+msgid "^ui.logmsg.show(\\d+).hidden(\\d+)"
+msgstr "Note: only the last %1 logs are shown (%2 hidden). To view more please download as CSV"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.menu.reports.charge-log-can"
+msgstr "CAN Charge Log"
+
+#: reports-canchargelog
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedchargername"
+msgstr "Co-Charger Name"
+
+#: reports-canchargelog
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedrole"
+msgstr "Teamed Charge Role"
+
+#: reports-canchargelog
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedserialnumber"
+msgstr "Co-Charger Serial Number"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.loading.chargelogcan"
+msgstr "Loading CAN Charge Logs"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.empty"
+msgstr "There are no CAN Charge Logs for this Period"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.baudrate"
+msgstr "Bit Rate (kb/s)"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.protocolrevisionlevel"
+msgstr "Protocol Revision Level"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.endreason"
+msgstr "CAN Error Reason"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.alarms"
+msgstr "Termination Alarm"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.batterymoduleid"
+msgstr "Battery Identifier"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.batteryserialnumber"
+msgstr "Battery Serial Number"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.finishtime"
+msgstr "Finish Time"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.nodeid"
+msgstr "Battery Node ID"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.profile"
+msgstr "Charge Profile"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.showall"
+msgstr "Show All Logs"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.starttimestamp"
+msgstr "Start Time"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "ui.chargelogcan.title"
+msgstr "CAN Charge Log"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.commserror"
+msgstr "CAN bus communications error"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.readerror"
+msgstr "Failed to read CAN battery parameter"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.writeerror"
+msgstr "Failed to write CAN battery parameter"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.searchfail"
+msgstr "Battery connected but no CAN traffic detected"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.protocolrevision"
+msgstr "Battery protocol revision level not valid"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.battery.error"
+msgstr "Battery sent an error"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.charge.current"
+msgstr "Current measured by charger out of sync with the batteries current measurement"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.charge.voltage"
+msgstr "Voltage measured by charger out of sync with the batteries voltage measurement"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.nopdochange"
+msgstr "No recent change in CAN PDO data detected"
+
+#: Reports,CANChargeLog
+#, i18next-interpolation
+msgid "bms.endreason.comms.nmterror"
+msgstr "CANopen state changed to pre-operational due to NMT message"
+
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.loading.bmmconfiglog"
+msgstr "Loading BMID Configuration Logs"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_primaryprofilename"
+msgstr "V-HFM Profile Name"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_primarystartingrate"
+msgstr "V-HFM Starting Current (A)"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondaryprofilename"
+msgstr "V-HFM Secondary Profile Name"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondaryprofiledelay"
+msgstr "V-HFM Delay to Secondary Profile"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondarystartingrate"
+msgstr "V-HFM Secondary Starting Current (A)"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.productid"
+msgstr "BMM Type"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.productid"
+msgstr "BMID Type"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.productid.PbBMID"
+msgstr "BMID-FCP"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.productid.LiBMID"
+msgstr "BMID-CAN"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.productid.PSBMID"
+msgstr "BMID-PSD"
+
+#: Reports,BMIDConfigurationLog
+#, i18next-interpolation
+msgid "ui.productid.MPBMU"
+msgstr "BMID"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.menu.reports.module-alarm-log"
+msgstr "Module Alarm Log"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.loading.modulealarmlog"
+msgstr "Loading Module Alarm Logs"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.timestamp"
+msgstr "Time"
+
+#: Reports,ModuleAlarmLog,AlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.alarm"
+msgstr "Alarm"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.module"
+msgstr "Module Position"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "battery-module.empty"
+msgstr "No events found"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.showall"
+msgstr "Show All Logs"
+
+#: Reports,ModuleAlarmLog
+#, i18next-interpolation
+msgid "ui.modulealarmlog.title"
+msgstr "Module Alarm Log"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.menu.reports.audit-log"
+msgstr "Audit Log"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.type"
+msgstr "Type"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.name"
+msgstr "Entry"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.result"
+msgstr "Result"
+
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.value"
+msgstr "Information"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.user"
+msgstr "Access Level"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.eventid"
+msgstr "Event ID"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.empty"
+msgstr "There are no Audit Logs for this Period"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.loading.auditlogs"
+msgstr "Loading Audit Logs"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.name"
+msgstr "Entry"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.showall"
+msgstr "Show All Logs"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.timestamp"
+msgstr "Time"
+
+#: Reports,AuditLog
+#, i18next-interpolation
+msgid "ui.auditlog.title"
+msgstr "Audit Log"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.menu.reports.battery-queue-log"
+msgstr "Battery Queue Log"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.title"
+msgstr "Battery Queue Log"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.empty"
+msgstr "There are no Battery Queue Logs for this Period"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.loading.batteryqueuelogs"
+msgstr "Loading Battery Queue Logs"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.counters"
+msgstr "Battery Queue Counters"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.successproportion"
+msgstr "Correct Battery Taken"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.bmidcharging"
+msgstr "Removed during charging"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.bmidcomplete"
+msgstr "Removed following completion"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.complete"
+msgstr "Removed following completion"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.cooldown"
+msgstr "Removed during cooldown"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.finishing"
+msgstr "Removing during finishing charge"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.wrongbattery"
+msgstr "Wrong Battery Taken"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.charging"
+msgstr "Removed during bulk charge"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.event"
+msgstr "Entry"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.showall"
+msgstr "Show All Logs"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.timestamp"
+msgstr "Time"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.value"
+msgstr "Information"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "hiddenqueue.warning"
+msgstr "Battery Queuing is operating in hidden mode"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "hiddenqueue.unlock"
+msgstr "Hidden Battery Queuing"
+
+#: Reports,BatteryQueueLog
+#, i18next-interpolation
+msgid "hiddenqueue.group"
+msgstr "Battery Group"
+
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.menu.reports.sd-card-log"
+msgstr "SD Card Log"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.title"
+msgstr "SD Card Status"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.mlc area health status"
+msgstr "MLC Area Health Status (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.overall health status"
+msgstr "Overall Health Status (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.product string"
+msgstr "Product"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.uncorrectable errors"
+msgstr "Uncorrectable Errors"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.used slc spare blocks"
+msgstr "Used SLC Spare Blocks (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.user area health status"
+msgstr "User Area Health Status (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.manufactured date"
+msgstr "Manufactured Date"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.power on cycles"
+msgstr "Power On Cycles"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.slc area health status"
+msgstr "SLC Area Health Status (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.used mlc spare blocks"
+msgstr "Used MLC spare blocks (%)"
+
+#: Reports,SDCardLog
+#, i18next-interpolation
+msgid "ui.sdcardlog.used spare blocks"
+msgstr "Used Spare Blocks (%)"
+
+#: 
+#, i18next-interpolation
+msgid "ui.menu.reports.demand-response-log"
+msgstr "Demand Response Log"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "ui.menu.charger.self"
+msgstr "Charger"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "ui.menu.charger.basic-configuration"
+msgstr "Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "configuration.fixed"
+msgstr "Fixed"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "configuration.bmid"
+msgstr "BMID"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "configuration.can"
+msgstr "CAN"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "configuration.autovoltage"
+msgstr "Auto-V"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.acconfigurations"
+msgstr "AC Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.selectedtemplate"
+msgstr "Configuration Template"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.templatefilename"
+msgstr "Template Set"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.v"
+msgstr "Battery Voltage"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.i"
+msgstr "Battery Current"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.cells"
+msgstr "Cell Count"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.ahr"
+msgstr "Battery Capacity"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.profile.group"
+msgstr "Charge Profile"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.nextprofiledelay"
+msgstr "Delay to Secondary Profile"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.startcurrent"
+msgstr "Starting Rate"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "charger.finishcurrent"
+msgstr "Finishing Rate"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.defaulttemperature"
+msgstr "Typical Battery Temperature"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.equalisechargetime"
+msgstr "Equalize Charge Time"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.finishingchargetime"
+msgstr "Finishing Charge Time"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.status"
+msgstr "Battery Status"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.temperature"
+msgstr "Battery Temperature"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.totalchargetime"
+msgstr "Charge time"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.type"
+msgstr "Battery Type"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "battery.voltage"
+msgstr "Battery Voltage"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "cable.length"
+msgstr "Cable Length"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "cable.name"
+msgstr "Cable Size"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "cable.temperature"
+msgstr "Cable Temperature"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "apc.skipfirstprofile"
+msgstr "Use Secondary Profile Only"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "apc.promptforchargerconfig"
+msgstr "Fallback Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.12"
+msgstr "12V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.24"
+msgstr "24V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.36"
+msgstr "36V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.48"
+msgstr "48V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.72"
+msgstr "72V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.80"
+msgstr "80V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.label.96"
+msgstr "96V Battery Configuration"
+
+#: Charger,Configuration
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.enable"
