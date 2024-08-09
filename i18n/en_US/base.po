@@ -1,0 +1,9025 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English (US) (Motive)"
+"Report-Msgid-Bugs-To: behshad.ghorbani@enatel.net"
+"POT-Creation-Date: Tuesday, 06 August 2024 10:22:59"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: Behshad Ghorbani <behshad.ghorbani@enatel.net>"
+"Language-Team: Enatel"
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=2; plural=n != 1"
+"X-Generator: Weblate 4.11.2"
+
+
+#: web
+#, i18next-interpolation
+msgid "alarms.communicationerror"
+msgstr "IO Board Communication Error"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.communicationsfailed"
+msgstr "BMID Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.stateofchargelow"
+msgstr "State of Charge Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.stateofhealthlow"
+msgstr "State of Health Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.temperaturehigh"
+msgstr "Temperature High"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.temperaturelow"
+msgstr "Temperature Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.temperaturesensorfail"
+msgstr "Temp Sensor Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.voltageimbalance"
+msgstr "Voltage Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.waterlevellow"
+msgstr "Water Level Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.autowatercomplete"
+msgstr "Auto Water Complete"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.cellimbalance"
+msgstr "Voltage Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.canopenfail"
+msgstr "CAN Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.eepromfail"
+msgstr "EEPROM Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.equalisecomplete"
+msgstr "Equalize Complete"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.rtcnotset"
+msgstr "Clock Not Set"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.memoryallocationfail"
+msgstr "Memory Allocation Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.apcalarms.timezonefreqchange"
+msgstr "Timezone Frequently Changing"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.autowateringcomplete"
+msgstr "Auto Watering Complete"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.batterydisconnected"
+msgstr "Battery Disconnected"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.bmstermination"
+msgstr "CAN Charge Complete"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.bulkchargecomplete"
+msgstr "Bulk Charge Complete"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.cooldowntimeviolation"
+msgstr "Cooldown Time Violation"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.didttermination"
+msgstr "Positive dI/dt Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.negativedidttermination"
+msgstr "Negative dI/dt Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.dvdttermination"
+msgstr "Minimum dV/dt Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.incorrectbattery"
+msgstr "Incorrect Battery"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.maximumvoltageterrmination"
+msgstr "Max Voltage Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.minimumcurrentterrmination"
+msgstr "Min Current Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.overdischargecritical"
+msgstr "Overdischarge - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.overdischargewarning"
+msgstr "Overdischarge - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.overtemperatureduringcharge"
+msgstr "Over Temp - During Charge"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.overtemperaturestartofcharge"
+msgstr "Over Temp - Start Of Charge"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.pulseandglidetimeout"
+msgstr "Pulse and Glide Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.reversedbattery"
+msgstr "Reversed Battery"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.voltageimbalance"
+msgstr "Voltage Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.waterlevellow"
+msgstr "Water Level Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.prechargetimeout"
+msgstr "Pre Charge Timeout - Abnormal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.prechargetimeouttermination"
+msgstr "Pre Charge Timeout - Normal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.bulkchargetimeout"
+msgstr "Bulk Charge Timeout - Abnormal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.bulkchargetimeouttermination"
+msgstr "Bulk Charge Timeout - Normal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.finishingchargetimeout"
+msgstr "Finishing Charge Timeout - Normal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.urgentfinishingchargetimeout"
+msgstr "Finishing Charge Timeout - Abnormal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.equalisechargetimeout"
+msgstr "Equalize Timeout - Normal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.urgentequalisechargetimeout"
+msgstr "Equalize Timeout - Abnormal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.maintenancechargetimeout"
+msgstr "Maintenance Charge Timeout - Normal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.urgentmaintenancechargetimeout"
+msgstr "Maintenance Charge Timeout - Abnormal"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.equaliseblockedontemperature"
+msgstr "Equalize Blocked - Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.batteryalarms.equaliseblockedonwaterlevel"
+msgstr "Equalize Blocked - Water Level"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.arclessdisconnect"
+msgstr "Arcless Disconnect/Postmate"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.accurrentlimit"
+msgstr "AC Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.acsupply"
+msgstr "USB Power Only"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.auxiliaryinputlow"
+msgstr "Auxiliary Power Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.canbatteryerror"
+msgstr "CAN Battery Error"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.canchargeerror"
+msgstr "CAN Charge Error"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.cancommunicationsfailed"
+msgstr "CAN Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.canvalidationfailed"
+msgstr "CAN Validation Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.canpiloterror"
+msgstr "CAN Pilot Missing"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.chargeroutputexceeded"
+msgstr "Maximum Output Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.customercodemismatch"
+msgstr "Customer Code Mismatch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.bothcablesrequired"
+msgstr "Both Cables Required"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.dualconnectormismatch"
+msgstr "Connector Voltage Mismatch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.expansionboardposition"
+msgstr "Expansion Board Position"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.expansionboardlocked"
+msgstr "Expansion Board Locked"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.highmainscritical"
+msgstr "High Mains - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.highmainswarning"
+msgstr "High Mains - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.invalidsystemtime"
+msgstr "Time Not Set"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.lowmainswarning"
+msgstr "Low Mains - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.lowmainscritical"
+msgstr "Low Mains - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.moduleservicewarning"
+msgstr "Module Service"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.modulefailcritical"
+msgstr "Module Fail - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.modulefailwarning"
+msgstr "Module Fail - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.modulefailcommunication"
+msgstr "Module Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.moduleovertemperaturewarning"
+msgstr "Module Over Temp - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.moduleovertemperaturecritical"
+msgstr "Module Over Temp - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.modulevalidationfailed"
+msgstr "Module Input Voltage Range"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.nooutputcurrent"
+msgstr "No Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.notenoughmodules"
+msgstr "Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.outputfuse"
+msgstr "Output Fuse"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.rackpositionerror"
+msgstr "Module Position"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.scheduledofftime"
+msgstr "Schedule Off Time"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.selftestfailed"
+msgstr "Self Test Failed"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.switchoff"
+msgstr "Stop Switch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.unknownprofile"
+msgstr "Unknown Profile"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.apccommunicationsfailed"
+msgstr "BMID Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.apicertclosetoexpire"
+msgstr "API Certificate Expiring"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.moduleframesizemismatch"
+msgstr "Module and Cabinet Mismatch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.serialnumbermismatch"
+msgstr "Serial Number Mismatch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.firmwareupgradefailed"
+msgstr "Firmware Upgrade Failed"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.cableresistancewarning"
+msgstr "Cable Resistance - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.cableresistancecritical"
+msgstr "Cable Resistance - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.drmcommunicationsfailed"
+msgstr "DRM Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.teamedchargeerror"
+msgstr "Teamed Charge Error"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.mainswitch"
+msgstr "Stop Switch"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.inletfilter"
+msgstr "Inlet Filter Blocked"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.lowmainsvoltage"
+msgstr "Low Mains - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.acofff"
+msgstr "Mains Off"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.nonurgentmodulefail"
+msgstr "Module Fail - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.urgentmodulefail"
+msgstr "Module Fail - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.scheduledofftime"
+msgstr "Schedule Off Time"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.configurationerror"
+msgstr "Configuration Error"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.bmmwaterlevellow"
+msgstr "Water Level Low"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.outputfuse"
+msgstr "Output Fuse"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.nooutputcurrent"
+msgstr "No Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.nobatterymodulefound"
+msgstr "BMM Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.bmmcellimbalance"
+msgstr "Voltage Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.adcfailed"
+msgstr "ADC Failed"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.overdischargedbattery"
+msgstr "Overdischarge - Critical"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.deeplydischargedbattery"
+msgstr "Overdischarge - Warning"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.sulphatedbattery"
+msgstr "Sulphated Battery"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.incorrectbattery"
+msgstr "Incorrect Battery"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.bulkchargetimeout"
+msgstr "Bulk Charge Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.finishingchargetimeout"
+msgstr "Finishing Charge Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.batterydisconnected"
+msgstr "Battery Disconnected"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.reversedbattery"
+msgstr "Reversed Battery"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.dvdttermination"
+msgstr "Minimum dV/dt Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.maxcellvoltagetermination"
+msgstr "Max Voltage Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.batteryovertemperaturestart"
+msgstr "Over Temp - Start Of Charge"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.batteryovertemperaturecharge"
+msgstr "Over Temp - During Charge"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.didttermination"
+msgstr "Positive dI/dt Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.minimumcurrenttermination"
+msgstr "Min Current Termination"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.equalisetimeout"
+msgstr "Equalize Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.terminationalarms.bulkchargestageonly"
+msgstr "Bulk Charge Complete"
+
+#: web
+#, i18next-interpolation
+msgid "^ui.logmsg.show(\\d+).hidden(\\d+)"
+msgstr "Note: only the last %1 logs are shown (%2 hidden). To view more please download as CSV"
+
+#: web
+#, i18next-interpolation
+msgid "^ui.logmsg.found(\\d+)"
+msgstr "Found %1 log entries"
+
+#: web
+#, i18next-interpolation
+msgid "^module.(\\d+).sw_version"
+msgstr "Module %1 Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "^module.(\\d+).serial_number"
+msgstr "Module %1 Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.translation"
+msgstr "Module 1"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub1.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.translation"
+msgstr "Module 2"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub2.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.translation"
+msgstr "Module 3"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub3.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.translation"
+msgstr "Module 4"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub4.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.translation"
+msgstr "Module 5"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub5.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.translation"
+msgstr "Module 6"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.output_voltage"
+msgstr "Output Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.output_current"
+msgstr "Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.temperature2"
+msgstr "Ambient Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.sw_version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.serial_number"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub6.product_id"
+msgstr "Product ID"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub127"
+msgstr "Module Recovery"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub255.translation"
+msgstr "IO Board"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub255.plcerrorheading"
+msgstr "Battery Module Error Count"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub255.sbierrorheading"
+msgstr "Power Module Error Count"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.translation"
+msgstr "Battery Module"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.profile_name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.fc_profile_name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.rated_current"
+msgstr "Starting Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.fc_rated_current"
+msgstr "Starting Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.fc_profile_valid"
+msgstr "Dual Profile"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.rated_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.rated_capacity"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.information"
+msgstr "Battery Name"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.battery_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.battery_current"
+msgstr "Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.battery_temperature"
+msgstr "Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.total_cycles"
+msgstr "Total Charge Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.complete_cycles"
+msgstr "Cycles Completed"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.equalise_cycles"
+msgstr "With Equalize Charge"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.water_level_low_total_cycles"
+msgstr "With Low Water"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.temperature_low_total_cycles"
+msgstr "With Low Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.temperature_high_total_cycles"
+msgstr "With High Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.auto_water_cycles"
+msgstr "With Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.cycles_since_autowater"
+msgstr "Cycles Since Last Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.cycles_since_equalise"
+msgstr "Cycles Since Last Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.equivalent_battery_unit"
+msgstr "Equivalent Battery Unit"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.high_depth_of_discharge_cycles"
+msgstr "With Deep Discharge"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.midpoint_voltage"
+msgstr "Battery Midpoint Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.battery_state"
+msgstr "Battery State"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.customer"
+msgstr "Company"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.installed_date"
+msgstr "Date Installed"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.battery_type"
+msgstr "Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.location"
+msgstr "Location"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.starting_current"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.finishing_current"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.secondary_profile_delay"
+msgstr "Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.electrolyte_sensor_fitted"
+msgstr "Electrolyte Sensor Fitted"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.midpoint_v_sensor_fitted"
+msgstr "Midpoint V Sensor Fitted"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.swap_current_sensor_direction"
+msgstr "Swap Current Sensor Direction"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg1.node1.sub254.connection_status"
+msgstr "Connected Power Line"
+
+#: web
+#, i18next-interpolation
+msgid "can0.seg254.node254.sub255"
+msgstr "IO Board"
+
+#: web
+#, i18next-interpolation
+msgid "stages.-1"
+msgstr "Upgrading"
+
+#: web
+#, i18next-interpolation
+msgid "stages.0"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "stages.1"
+msgstr "Service Mode On"
+
+#: web
+#, i18next-interpolation
+msgid "stages.2"
+msgstr "Service Mode Off"
+
+#: web
+#, i18next-interpolation
+msgid "stages.3"
+msgstr "Service Mode Finished"
+
+#: web
+#, i18next-interpolation
+msgid "stages.4"
+msgstr "Charge Initializing"
+
+#: web
+#, i18next-interpolation
+msgid "stages.5"
+msgstr "Pre Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.6"
+msgstr "Bulk Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.7"
+msgstr "Finishing Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.8"
+msgstr "Equalize Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.9"
+msgstr "Maintenance Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.10"
+msgstr "Charge Finalizing"
+
+#: web
+#, i18next-interpolation
+msgid "stages.11"
+msgstr "Stopped"
+
+#: web
+#, i18next-interpolation
+msgid "stages.12"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "stages.13"
+msgstr "Start Delay"
+
+#: web
+#, i18next-interpolation
+msgid "stages.14"
+msgstr "Schedule Delay"
+
+#: web
+#, i18next-interpolation
+msgid "stages.15"
+msgstr "Charge Initializing APC"
+
+#: web
+#, i18next-interpolation
+msgid "stages.16"
+msgstr "Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "stages.17"
+msgstr "Module Test"
+
+#: web
+#, i18next-interpolation
+msgid "stages.18"
+msgstr "Charge Initializing Auto-V"
+
+#: web
+#, i18next-interpolation
+msgid "stages.19"
+msgstr "Charge Initializing User Prompt"
+
+#: web
+#, i18next-interpolation
+msgid "stages.20"
+msgstr ""
+
+#: web
+#, i18next-interpolation
+msgid "stages.21"
+msgstr "Cooldown"
+
+#: web
+#, i18next-interpolation
+msgid "stages.22"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "stages.23"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "stages.24"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "stages.25"
+msgstr "Charge Initializing CAN"
+
+#: web
+#, i18next-interpolation
+msgid "stages.26"
+msgstr "Bulk Charge CAN"
+
+#: web
+#, i18next-interpolation
+msgid "stages.27"
+msgstr "Balancing Charge CAN"
+
+#: web
+#, i18next-interpolation
+msgid "stages.28"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "stages.29"
+msgstr "Start Delay CAN"
+
+#: web
+#, i18next-interpolation
+msgid "stages.30"
+msgstr "DRM Delay"
+
+#: web
+#, i18next-interpolation
+msgid "stages.31"
+msgstr "Charge Inhibited"
+
+#: web
+#, i18next-interpolation
+msgid "stages.32"
+msgstr "Error"
+
+#: web
+#, i18next-interpolation
+msgid "stages.33"
+msgstr "Charge Initializing"
+
+#: web
+#, i18next-interpolation
+msgid "stages.34"
+msgstr "Charge Initializing CAN"
+
+#: web
+#, i18next-interpolation
+msgid "stages.35"
+msgstr "Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.36"
+msgstr "Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.37"
+msgstr "Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "stages.38"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "stages.39"
+msgstr "Default Output"
+
+#: web
+#, i18next-interpolation
+msgid "settings.arclessdisconnect.enable"
+msgstr "Single Phase Arcless Disconnect"
+
+#: web
+#, i18next-interpolation
+msgid "settings.modulefailcriticalthreshold"
+msgstr "Urgent Module Fail Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "settings.batterydisconnectvoltagethreshold"
+msgstr "Battery Connected Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "settings.batterydisconnectcurrentthreshold"
+msgstr "Zero Current Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cableresistancewarningthreshold"
+msgstr "Warning Cable Resistance Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cableresistancecriticalthreshold"
+msgstr "Critical Cable Resistance Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cooldowntemperature"
+msgstr "Cooldown Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cooldowntime"
+msgstr "Time Delay"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cooldownmode.temperature"
+msgstr "Temperature Based"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cooldownmode.time"
+msgstr "Time Based"
+
+#: web
+#, i18next-interpolation
+msgid "settings.cooldownmode.translation"
+msgstr "Cooldown"
+
+#: web
+#, i18next-interpolation
+msgid "settings.otherchargers"
+msgstr "Chargers on This Network"
+
+#: web
+#, i18next-interpolation
+msgid "settings.ipaddress"
+msgstr "IP Address"
+
+#: web
+#, i18next-interpolation
+msgid "settings.ipname"
+msgstr "Charger Name"
+
+#: web
+#, i18next-interpolation
+msgid "settings.softwareversion"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "settings.chargerstate"
+msgstr "Charger State"
+
+#: web
+#, i18next-interpolation
+msgid "settings.hostname"
+msgstr "Host Name"
+
+#: web
+#, i18next-interpolation
+msgid "settings.interface"
+msgstr "Interface"
+
+#: web
+#, i18next-interpolation
+msgid "settings.chargeriptable"
+msgstr "Charger IP Table"
+
+#: web
+#, i18next-interpolation
+msgid "settings.hidechargeriptable"
+msgstr "Hide Charger IP Table"
+
+#: web
+#, i18next-interpolation
+msgid "settings.showchargeriptable"
+msgstr "Show Charger IP Table"
+
+#: web
+#, i18next-interpolation
+msgid "settings.address"
+msgstr "Address"
+
+#: web
+#, i18next-interpolation
+msgid "settings.name"
+msgstr "Name"
+
+#: web
+#, i18next-interpolation
+msgid "settings.state"
+msgstr "State"
+
+#: web
+#, i18next-interpolation
+msgid "settings.noother"
+msgstr "No Other Chargers Found on Network"
+
+#: web
+#, i18next-interpolation
+msgid "settings.acvoltagethreshold"
+msgstr "AC Voltage Minimum Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "ui.save"
+msgstr "Save Changes"
+
+#: web
+#, i18next-interpolation
+msgid "ui.savechanges"
+msgstr "Save Changes"
+
+#: web
+#, i18next-interpolation
+msgid "ui.reload"
+msgstr "Revert"
+
+#: web
+#, i18next-interpolation
+msgid "ui.or"
+msgstr "or"
+
+#: web
+#, i18next-interpolation
+msgid "ui.disable"
+msgstr "disable"
+
+#: web
+#, i18next-interpolation
+msgid "ui.revert"
+msgstr "Revert"
+
+#: web
+#, i18next-interpolation
+msgid "ui.max"
+msgstr "Max"
+
+#: web
+#, i18next-interpolation
+msgid "ui.min"
+msgstr "Min"
+
+#: web
+#, i18next-interpolation
+msgid "ui.success"
+msgstr "Successfully Updated"
+
+#: web
+#, i18next-interpolation
+msgid "ui.failed"
+msgstr "Failed To Update"
+
+#: web
+#, i18next-interpolation
+msgid "ui.disabled"
+msgstr "Disabled"
+
+#: web
+#, i18next-interpolation
+msgid "ui.validatefailed"
+msgstr "Value not in valid range"
+
+#: web
+#, i18next-interpolation
+msgid "ui.invalidgroup"
+msgstr "A valid group has not been configured"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueue.failedprimary"
+msgstr "Primary controller already exists in battery queue"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueue.failedsecondary"
+msgstr "Secondary controller already exists in battery queue"
+
+#: web
+#, i18next-interpolation
+msgid "ui.drm.failedprimary"
+msgstr "Primary controller already exists in DRM group"
+
+#: web
+#, i18next-interpolation
+msgid "ui.drm.failedsecondary"
+msgstr "Secondary controller already exists in DRM group"
+
+#: web
+#, i18next-interpolation
+msgid "ui.drm.loading"
+msgstr " Loading DRM Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.update.success"
+msgstr "Successfully Updated"
+
+#: web
+#, i18next-interpolation
+msgid "ui.update.failed"
+msgstr "Failed To Update"
+
+#: web
+#, i18next-interpolation
+msgid "ui.validate.invalidvalue.smaller"
+msgstr "Value less than minimum of "
+
+#: web
+#, i18next-interpolation
+msgid "ui.validate.invalidvalue.greater"
+msgstr "Value greater than maximum of "
+
+#: web
+#, i18next-interpolation
+msgid "ui.validate.emptyvalue"
+msgstr "Value cannot be empty"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.V"
+msgstr "V"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.W"
+msgstr "W"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.kW"
+msgstr "kW"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.A"
+msgstr "A"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.Hz"
+msgstr "Hz"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.Mins"
+msgstr "mins"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.Days"
+msgstr "days"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.C10Ahr"
+msgstr "c10Ahr"
+
+#: web
+#, i18next-interpolation
+msgid "ui.unit.%"
+msgstr "%"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.translation"
+msgstr "Login"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.msg"
+msgstr "Details are always encrypted on send"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.blankusername"
+msgstr "Username or Password Cannot Be Blank"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.error"
+msgstr "Incorrect Username or Password"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.accessdenied"
+msgstr "Access denied"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.usernamemsg"
+msgstr "Username"
+
+#: web
+#, i18next-interpolation
+msgid "ui.login.passwordmsg"
+msgstr "Password"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.connected"
+msgstr "Connected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.disconnected"
+msgstr "Battery Disconnected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.readingbatteryvalues"
+msgstr "Reading Battery Values"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.ac"
+msgstr "AC"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.lan"
+msgstr "Ethernet"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.wifi"
+msgstr "Wireless"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.chargerclock"
+msgstr "Charger Clock"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.deviceserial"
+msgstr "Device Serial"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.processorsoftwarev"
+msgstr "Processor Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.iosoftwarev"
+msgstr "IO Board Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.iosoftwareerror"
+msgstr "IO Board Software Error"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.last"
+msgstr "Last"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.chargelogentries"
+msgstr "Charge Log Entries"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.alarms"
+msgstr "Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.modulealarms"
+msgstr "Module Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.showalarms"
+msgstr "Show Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.showmodulealarms"
+msgstr "Show Module Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.equalisestate"
+msgstr "Equalize Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.overview.autowaterstate"
+msgstr "Auto Watering Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.demand-response.settings"
+msgstr "Demand Response Management"
+
+#: web
+#, i18next-interpolation
+msgid "ui.demand-response.individual"
+msgstr "Charger Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.demand-response.group-controller"
+msgstr "Group Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.demand-response.group-chargers"
+msgstr "Group Chargers Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.empty"
+msgstr "No events found"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.emptyday"
+msgstr "No alarm logged for this day"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.selectall"
+msgstr "Select All"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.selectnone"
+msgstr "Select None"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.allalarms"
+msgstr "All Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.urgentalarms"
+msgstr "Urgent Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.nonurgentalarms"
+msgstr "Non-Urgent Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.timestamp"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.alarm"
+msgstr "Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "ui.activitylog.state"
+msgstr "State"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.lifetimecounters"
+msgstr "Lifetime Counters"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.title"
+msgstr "Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.empty"
+msgstr "There are no Charge Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.time"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.finishtime"
+msgstr "Finish Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.configuredvoltage"
+msgstr "Nominal Battery Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.configuredcapacity"
+msgstr "Configured Capacity (Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.configuredcurrent"
+msgstr "Maximum Charge Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.profile"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.starttimestamp"
+msgstr "Start Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.connectedtime"
+msgstr "Connected Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.totalchargetime"
+msgstr "Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.prechargetime"
+msgstr "Pre Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.bulkchargetime"
+msgstr "Bulk Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.finishingchargetime"
+msgstr "Finishing Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.equalisechargetime"
+msgstr "Equalize Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.maintenancechargetime"
+msgstr "Maintenance Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.cooldowntime"
+msgstr "Cooldown Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.startvoltage"
+msgstr "Start Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.endvoltage"
+msgstr "Termination Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.disconnectvoltage"
+msgstr "Disconnection Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.starttemperature"
+msgstr "Start Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.endtemperature"
+msgstr "Termination Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.disconnecttemperature"
+msgstr "Disconnection Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.starttemperaturef"
+msgstr "Start Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.endtemperaturef"
+msgstr "Termination Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.disconnecttemperaturef"
+msgstr "Disconnection Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.endcurrent"
+msgstr "End Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.chargeah"
+msgstr "Capacity Returned (Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.chargeenergy"
+msgstr "Energy Returned (kWh)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.alarms"
+msgstr "Termination Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.batterymoduleid"
+msgstr "Battery Identifier"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.autowaterreason"
+msgstr "Auto Water Reason"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.equalisereason"
+msgstr "Equalize Reason"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.chargetype"
+msgstr "Charge Type"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.startstateofcharge"
+msgstr "Start State of Charge (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.endstateofcharge"
+msgstr "Termination State of Charge (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.stateofhealth"
+msgstr "State Of Health (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.firmwareversion"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.title"
+msgstr "CAN Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.empty"
+msgstr "There are no CAN Charge Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.starttimestamp"
+msgstr "Start Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.finishtime"
+msgstr "Finish Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.profile"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.nodeid"
+msgstr "Battery Node ID"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.baudrate"
+msgstr "Bit Rate (kb/s)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.protocolrevisionlevel"
+msgstr "Protocol Revision Level"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.batteryserialnumber"
+msgstr "Battery Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.endreason"
+msgstr "CAN Error Reason"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.alarms"
+msgstr "Termination Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.batterymoduleid"
+msgstr "Battery Identifier"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedrole"
+msgstr "Teamed Charge Role"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedserialnumber"
+msgstr "Co-Charger Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelogcan.teamedchargername"
+msgstr "Co-Charger Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.title"
+msgstr "Audit Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.empty"
+msgstr "There are no Audit Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.timestamp"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.type"
+msgstr "Type"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.name"
+msgstr "Entry"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.value"
+msgstr "Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.user"
+msgstr "Access Level"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.eventid"
+msgstr "Event ID"
+
+#: web
+#, i18next-interpolation
+msgid "ui.auditlog.result"
+msgstr "Result"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.title"
+msgstr "Battery Queue Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.empty"
+msgstr "There are no Battery Queue Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.timestamp"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.event"
+msgstr "Entry"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.value"
+msgstr "Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.counters"
+msgstr "Battery Queue Counters"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.successproportion"
+msgstr "Correct Battery Taken"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.bmidcharging"
+msgstr "Removed during charging"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.bmidcomplete"
+msgstr "Removed following completion"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.charging"
+msgstr "Removed during bulk charge"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.complete"
+msgstr "Removed following completion"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.cooldown"
+msgstr "Removed during cooldown"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.finishing"
+msgstr "Removing during finishing charge"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batteryqueuelog.dailylog.wrongbattery"
+msgstr "Wrong Battery Taken"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.title"
+msgstr "Module Alarm Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.empty"
+msgstr "There are no Alarm Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.timestamp"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.alarm"
+msgstr "Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "ui.modulealarmlog.module"
+msgstr "Module Position"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.title"
+msgstr "Periodic Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.empty"
+msgstr "There are no Periodic Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.time"
+msgstr "Time (UTC)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.voltage"
+msgstr "Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.current"
+msgstr "Current"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.temperature"
+msgstr "Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.periodiclog.temperaturef"
+msgstr "Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog.title"
+msgstr "SD Card Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['mlc area health status']"
+msgstr "MLC Area Health Status (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['overall health status']"
+msgstr "Overall Health Status (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['product string']"
+msgstr "Product"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['uncorrectable errors']"
+msgstr "Uncorrectable Errors"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['used slc spare blocks']"
+msgstr "Used SLC Spare Blocks (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['user area health status']"
+msgstr "User Area Health Status (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['manufactured date']"
+msgstr "Manufactured Date"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['power on cycles']"
+msgstr "Power On Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['slc area health status']"
+msgstr "SLC Area Health Status (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['used mlc spare blocks']"
+msgstr "Used MLC spare blocks (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.sdcardlog['used spare blocks']"
+msgstr "Used Spare Blocks (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason.Manual"
+msgstr "Manual"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason['External Button']"
+msgstr "External Button"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason['Simple Delay']"
+msgstr "Simple Delay"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason['Cycle Based']"
+msgstr "Cycle Based"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason['Time Based']"
+msgstr "Time Based"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason['Water Level Low Inhibit']"
+msgstr "Water Level Low Inhibit"
+
+#: web
+#, i18next-interpolation
+msgid "ui.equalisereason.Imbalanced"
+msgstr "Imbalanced"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason.Manual"
+msgstr "Manual"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['External Button']"
+msgstr "External Button"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['Simple Delay']"
+msgstr "Simple Delay"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['Cycle Based']"
+msgstr "Cycle Based"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['After Equalise']"
+msgstr "After Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['Time Based']"
+msgstr "Time Based"
+
+#: web
+#, i18next-interpolation
+msgid "ui.autowaterreason['Low Water']"
+msgstr "Low Water"
+
+#: web
+#, i18next-interpolation
+msgid "ui.temperaturesensorlocation.Body"
+msgstr "Body"
+
+#: web
+#, i18next-interpolation
+msgid "ui.temperaturesensorlocation.Battery"
+msgstr "Battery"
+
+#: web
+#, i18next-interpolation
+msgid "ui.temperaturesensorlocation.LiBattery"
+msgstr "Lithium BMS"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.chargeralarms"
+msgstr "Charger Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.batteryalarms"
+msgstr "Battery Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.alarmname"
+msgstr "Alarm Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.logging"
+msgstr "Logging"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.response"
+msgstr "Response"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.outputconfiguration"
+msgstr "Output Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.outputtest"
+msgstr "Output Test"
+
+#: web
+#, i18next-interpolation
+msgid "ui.alarm-configuration.inputconfiguration"
+msgstr "Input Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.advancedbuilder"
+msgstr "Use Advanced Builder"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.copy"
+msgstr "Copy a profile to start"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.singleprofile"
+msgstr "Single Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.dualprofile"
+msgstr "Dual Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.startcondition"
+msgstr "Secondary Profile Start Condition"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.factoryprofile"
+msgstr "Factory Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.factoryprofilemsg"
+msgstr "Factory profiles may not be deleted or renamed"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.activeprofilemsg"
+msgstr "Active Profile: Deletion and renaming disabled"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.emptyprofilename"
+msgstr "Profile Name cannot be empty"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.cannotchangesettings"
+msgstr "Cannot change the settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.profilevalue"
+msgstr "Profile Value"
+
+#: web
+#, i18next-interpolation
+msgid "ui.profileeditor.configurationvalue"
+msgstr "Configuration Value"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.notconnected"
+msgstr "No Battery Module Connected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.counters"
+msgstr "Proportional Counters"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.notavailable"
+msgstr "Not Available"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.voltage"
+msgstr "Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.logging"
+msgstr "Logging"
+
+#: web
+#, i18next-interpolation
+msgid "ui.batterymodule.idletime"
+msgstr "Idle Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.close"
+msgstr "Close"
+
+#: web
+#, i18next-interpolation
+msgid "ui.allowed"
+msgstr "Allowed"
+
+#: web
+#, i18next-interpolation
+msgid "ui.enabled"
+msgstr "Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "ui.on"
+msgstr "On"
+
+#: web
+#, i18next-interpolation
+msgid "ui.off"
+msgstr "Off"
+
+#: web
+#, i18next-interpolation
+msgid "ui.normal"
+msgstr "Normal"
+
+#: web
+#, i18next-interpolation
+msgid "ui.forceon"
+msgstr "Force On"
+
+#: web
+#, i18next-interpolation
+msgid "ui.single"
+msgstr "Single"
+
+#: web
+#, i18next-interpolation
+msgid "ui.multiple"
+msgstr "Multiple"
+
+#: web
+#, i18next-interpolation
+msgid "ui.add"
+msgstr "Add"
+
+#: web
+#, i18next-interpolation
+msgid "ui.remove"
+msgstr "Remove"
+
+#: web
+#, i18next-interpolation
+msgid "ui.delete"
+msgstr "Delete"
+
+#: web
+#, i18next-interpolation
+msgid "ui.create"
+msgstr "Create"
+
+#: web
+#, i18next-interpolation
+msgid "ui.cancel"
+msgstr "Cancel"
+
+#: web
+#, i18next-interpolation
+msgid "ui.retry"
+msgstr "Try Again"
+
+#: web
+#, i18next-interpolation
+msgid "ui.submit"
+msgstr "Submit"
+
+#: web
+#, i18next-interpolation
+msgid "ui.ok"
+msgstr "Ok"
+
+#: web
+#, i18next-interpolation
+msgid "ui.connect"
+msgstr "Connect"
+
+#: web
+#, i18next-interpolation
+msgid "ui.connected"
+msgstr "Connected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.connecting"
+msgstr "Connecting to"
+
+#: web
+#, i18next-interpolation
+msgid "ui.warning"
+msgstr "WARNING"
+
+#: web
+#, i18next-interpolation
+msgid "ui.error"
+msgstr "ERROR"
+
+#: web
+#, i18next-interpolation
+msgid "ui.exportcsv"
+msgstr "Export as CSV"
+
+#: web
+#, i18next-interpolation
+msgid "ui.showoptions"
+msgstr "Show Options"
+
+#: web
+#, i18next-interpolation
+msgid "ui.hideoptions"
+msgstr "Hide Options"
+
+#: web
+#, i18next-interpolation
+msgid "ui.readonly"
+msgstr "read only"
+
+#: web
+#, i18next-interpolation
+msgid "ui.movenode"
+msgstr "Move Node"
+
+#: web
+#, i18next-interpolation
+msgid "ui.no"
+msgstr "No"
+
+#: web
+#, i18next-interpolation
+msgid "ui.yes"
+msgstr "Yes"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.alarms"
+msgstr "Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.identifycharger"
+msgstr "Identify Charger"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.displayflashing"
+msgstr "Display Flashing"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.help"
+msgstr "Help"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.logout"
+msgstr "Logout"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.iptable"
+msgstr "IP Table"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.status.self"
+msgstr "Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.status.status"
+msgstr "Overview"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.status.demand-response"
+msgstr "Demand Response"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.self"
+msgstr "Battery Module"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.configuration"
+msgstr "Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.status"
+msgstr "Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.daily-log"
+msgstr "Daily Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.activity-log"
+msgstr "Alarm Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.charge-log"
+msgstr "Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.periodic-log"
+msgstr "Periodic Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.lifetime-counters"
+msgstr "Lifetime Counters"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.battery-module.advanced-settings"
+msgstr "Advanced Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.self"
+msgstr "Charger"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.basic-configuration"
+msgstr "Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.advanced-setup"
+msgstr "Advanced Setup"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.feature-configuration"
+msgstr "Feature Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.profile-builder"
+msgstr "Profile Builder"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.alarm-configuration"
+msgstr "Alarm Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.power-modules"
+msgstr "Charger Modules"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.advanced-controller-settings"
+msgstr "Advanced Controller Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.charger.can-diagnostics"
+msgstr "CAN Diagnostics"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.settings.self"
+msgstr "Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.settings.networking"
+msgstr "Networking"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.settings.system"
+msgstr "System"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.settings.regional"
+msgstr "Regional"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.settings.sandbox"
+msgstr "Sandbox"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.about.self"
+msgstr "About"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.about.information"
+msgstr "Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.about.license"
+msgstr "Open Source Credits"
+
+#: web
+#, i18next-interpolation
+msgid "ui.copyfeaturestatus"
+msgstr "Copy Feature Status to Clipboard"
+
+#: web
+#, i18next-interpolation
+msgid "ui.copyfeaturestatussuccess"
+msgstr "Feature Status copied to clipboard"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.droptext"
+msgstr "Drop your .ena or .enc file here"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configdroptext"
+msgstr "Drop your config file here"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.selecttext"
+msgstr "Select a File to Upload"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.selectbutton"
+msgstr "Upload Firmware Update"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.progress"
+msgstr "Progress"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.uploadingmsg"
+msgstr "Uploading Your Firmware file"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configuploadingmsg"
+msgstr "Uploading Your Config file"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificateuploadingmsg"
+msgstr "Uploading Your Certificate file"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.pleasewait"
+msgstr "Please Wait"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.failedmsg"
+msgstr "Your Firmware upload failed"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.errormsg"
+msgstr "Firmware failed to update. This might be because you tried to share a .ena file"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.successmsg"
+msgstr "Firmware Upload Successful"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.successmsgextd"
+msgstr "Your charger will apply the update and then restart the charger, this will take a few minutes to complete.<br>Please do not refresh this page while the update is in progress."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configfailedmsg"
+msgstr "Your configuration file failed to upload"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configsuccessmsg"
+msgstr "Configuration File Applied"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configsuccessmsgextd"
+msgstr "Your charger's configuration has been changed to match the configuration file."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.configrebootrequired"
+msgstr "Restart required to apply all settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificatedroptext"
+msgstr "Drop your certificate file here"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificatefailedmsg"
+msgstr "Your Certificate file failed to upload"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificatesuccessmsg"
+msgstr "Certificate File Applied"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificatesuccessmsgextd"
+msgstr "Your charger's HTTPS certificate has been changed."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.invalidcertificate"
+msgstr "Certificate is invalid"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.invalidpfxcertificate"
+msgstr "Certificate is invalid or password was incorrect"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featuresuccessmsg"
+msgstr "Features Successfully Unlocked"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featuresuccessmsgextd"
+msgstr "The features have been successfully unlocked for this charger and can now be used."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featurefailinvalid"
+msgstr "Feature unlock file invalid"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featurefailused"
+msgstr "Feature unlock file already used"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featurefailversion"
+msgstr "Some features unlocked are not available in this version. Update to access these features."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.featurefail"
+msgstr "Feature unlock error"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.failedauthentication"
+msgstr "Verification error"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.failedwrongfile"
+msgstr "No battery configuration found. Is this a charger configuration file?"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.failed"
+msgstr "Upload failed"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.unlockfile"
+msgstr "Upload Unlock File"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.uploading"
+msgstr "Uploading..."
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.unlockdroptext"
+msgstr "Drop your unlock file here"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.certificatepassword"
+msgstr "Certificate Password"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.unsupportedbrowser"
+msgstr "File Drag/Drop is not supported for this browser"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.broadcastenable"
+msgstr "Share firmware file with other chargers on network"
+
+#: web
+#, i18next-interpolation
+msgid "ui.upload.uploadfile"
+msgstr "Upload File"
+
+#: web
+#, i18next-interpolation
+msgid "ui.termination"
+msgstr "Termination"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeout"
+msgstr "Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "ui.timeoutah"
+msgstr "Capacity Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "ui.temperaturecompensation"
+msgstr "Temperature Compensation"
+
+#: web
+#, i18next-interpolation
+msgid "ui.usestartcurrent"
+msgstr "Control Set Current with Start Rate"
+
+#: web
+#, i18next-interpolation
+msgid "ui.usefinishcurrent"
+msgstr "Control Set Current with Finish Rate"
+
+#: web
+#, i18next-interpolation
+msgid "ui.useterminationfinishcurrent"
+msgstr "Control Termination with Finish Rate"
+
+#: web
+#, i18next-interpolation
+msgid "ui.voltage"
+msgstr "Set Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "ui.current"
+msgstr "Set Current"
+
+#: web
+#, i18next-interpolation
+msgid "ui.acsupply.translation"
+msgstr "USB Power Only"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wifi"
+msgstr "Wireless Networking"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.available_networks"
+msgstr "Available Networks"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.automatic"
+msgstr "Automatic"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.manual"
+msgstr "Manual"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.downloadwifisettings"
+msgstr "Download Wireless Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.scanningmsg"
+msgstr "Scanning for wireless networks..."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.nonetworksfound"
+msgstr "No Networks Found."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.manuallyconfigure"
+msgstr "Manually Configure"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.scanagain"
+msgstr "Scan Again"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.scanning"
+msgstr "Scanning"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.scan"
+msgstr "Scan"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.disabledmessage"
+msgstr "Please ensure wireless is enabled above."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.settingschanged"
+msgstr "Changes saved, to apply"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.restart"
+msgstr "restart wireless connection"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.applying"
+msgstr "Applying Network Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.applyingmsg1"
+msgstr "Please take note of the IP Address changes below."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.applyingmsg2"
+msgstr "You may be logged out after this completes."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.success"
+msgstr "Successfully updated network settings. Please wait..."
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.restartfailed"
+msgstr "Could not restart device"
+
+#: web
+#, i18next-interpolation
+msgid "ui.wireless.failed"
+msgstr "Failed to write wireless settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.ethernet.translation"
+msgstr "Ethernet"
+
+#: web
+#, i18next-interpolation
+msgid "ui.ethernet.settingschanged"
+msgstr "Changes saved, to apply"
+
+#: web
+#, i18next-interpolation
+msgid "ui.ethernet.restart"
+msgstr "restart wired connection"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.power-modules.module_status"
+msgstr "Module Status"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.power-modules.module_alarms"
+msgstr "Module Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.power-modules.module_address"
+msgstr "Module Address"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.controller_settings"
+msgstr "Internal Controller Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.module_settings"
+msgstr "Charger Module Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.cabinet_settings"
+msgstr "Cabinet Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.configuration_settings"
+msgstr "Fixed Configuration Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.bmm_settings"
+msgstr "BMID Enabled Configuration Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.can_settings"
+msgstr "CAN Enabled Configuration Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.overview_settings"
+msgstr "Overview Page Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.output_settings"
+msgstr "Output Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.advanced-controller-settings.display_settings"
+msgstr "Front Panel Interface Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.calibration.communication_testing"
+msgstr "Communication Quality"
+
+#: web
+#, i18next-interpolation
+msgid "ui.charger.calibration.readerrorcounters"
+msgstr "Read Error Counters"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.title"
+msgstr "Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.empty"
+msgstr "There are no Charge Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.starttime"
+msgstr "Start Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.endtime"
+msgstr "End Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.duration"
+msgstr "Duration"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.type"
+msgstr "State"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.capacity"
+msgstr "Capacity (Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.startstateofcharge"
+msgstr "Start State Of Charge (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.endstateofcharge"
+msgstr "End State Of Charge (%)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.startvoltage"
+msgstr "Start Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.endvoltage"
+msgstr "End Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.cellstartvoltage"
+msgstr "Start Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.cellendvoltage"
+msgstr "End Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.cellminimumvoltage"
+msgstr "Minimum Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.cellmaximumvoltage"
+msgstr "Maximum Cell Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.minimumvolage"
+msgstr "Minimum Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.minimumvoltage"
+msgstr "Minimum Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.maximumvoltage"
+msgstr "Maximum Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.starttemperature"
+msgstr "Start Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.starttemperaturef"
+msgstr "Start Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.endtemperature"
+msgstr "End Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.endtemperaturef"
+msgstr "End Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.disconnecttemperature"
+msgstr "Disconnection Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.disconnecttemperaturef"
+msgstr "Disconnection Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.minimumtemperature"
+msgstr "Minimum Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.minimumtemperaturef"
+msgstr "Minimum Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.maximumtemperature"
+msgstr "Maximum Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.maximumtemperaturef"
+msgstr "Maximum Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.meantemperature"
+msgstr "Average Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.meantemperaturef"
+msgstr "Average Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodyminimumtemperature"
+msgstr "Minimum Body Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodyminimumtemperaturef"
+msgstr "Minimum Body Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodymaximumtemperature"
+msgstr "Maximum Body Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodymaximumtemperaturef"
+msgstr "Maximum Body Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodymeantemperature"
+msgstr "Average Body Temperature (°C)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bodymeantemperaturef"
+msgstr "Average Body Temperature (°F)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.temperaturesensorlocation"
+msgstr "Temperature Sensor Location"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.minimumcurrent"
+msgstr "Minimum Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.maximumcurrent"
+msgstr "Maximum Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.regencapacity"
+msgstr "Regen Capacity (Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.chargekwh"
+msgstr "Charge Energy Returned (kWh)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.DischargekWh"
+msgstr "Energy Discharged (kWh)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.alarms"
+msgstr "Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.resttime"
+msgstr "Idle Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.overdischargedtime"
+msgstr "Over Discharge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.chargetermination"
+msgstr "Charge Termination"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.totalchargetime"
+msgstr "Total Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.prechargetime"
+msgstr "Pre Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.bulkchargetime"
+msgstr "Bulk Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.finishingchargetime"
+msgstr "Finishing Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.equalisechargetime"
+msgstr "Equalize Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.maintenancechargetime"
+msgstr "Maintenance Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.cellcount"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.equalisereason"
+msgstr "Equalize Reason"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.autowaterreason"
+msgstr "Auto Water Reason"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.chargername"
+msgstr "Charger Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-charge-log.timezoneoffset"
+msgstr "Timezone Offset (UTC)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-advanced-settings.loggingsettings"
+msgstr "Logging Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-advanced-settings.alarmsettings"
+msgstr "Alarm Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.battery-advanced-settings.cablesettings"
+msgstr "Cable Settings"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.general"
+msgstr "General Information"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.canpdos"
+msgstr "CAN PDOs and SDOs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.tracedata"
+msgstr "Trace Data"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.starttrace"
+msgstr "Start Trace"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.stoptrace"
+msgstr "Stop Trace"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.downloadtrace"
+msgstr "Download Latest Trace Data"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.nodata"
+msgstr "No PDOs or SDOs detected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.tracestarted"
+msgstr "Trace Started"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.tracestartfail"
+msgstr "Trace Already Started"
+
+#: web
+#, i18next-interpolation
+msgid "ui.can-diagnostics.tracestopped"
+msgstr "Trace Stopped"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.mon"
+msgstr "Monday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.tue"
+msgstr "Tuesday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.wed"
+msgstr "Wednesday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.thu"
+msgstr "Thursday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.fri"
+msgstr "Friday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.sat"
+msgstr "Saturday"
+
+#: web
+#, i18next-interpolation
+msgid "ui.day.sun"
+msgstr "Sunday"
+
+#: web
+#, i18next-interpolation
+msgid "system.setserialnumber"
+msgstr "Set Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "system.updateserialnumber"
+msgstr "Update Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "system.realtimelogging"
+msgstr "Real Time Data Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.guestpassword"
+msgstr "Change Guest Password"
+
+#: web
+#, i18next-interpolation
+msgid "system.newguestpassword"
+msgstr "New Password"
+
+#: web
+#, i18next-interpolation
+msgid "system.setguestpassword"
+msgstr "Set Password"
+
+#: web
+#, i18next-interpolation
+msgid "system.guestpasswordconfirmation"
+msgstr "Confirm Password"
+
+#: web
+#, i18next-interpolation
+msgid "system.guestpasswordnomatch"
+msgstr "Passwords do not match"
+
+#: web
+#, i18next-interpolation
+msgid "system.downloadlog"
+msgstr "Download Latest Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.unlockablefeatures"
+msgstr "Unlockable Features"
+
+#: web
+#, i18next-interpolation
+msgid "system.unlockedfeatures"
+msgstr "Unlocked Features"
+
+#: web
+#, i18next-interpolation
+msgid "system.clicktolock"
+msgstr "click on feature to lock"
+
+#: web
+#, i18next-interpolation
+msgid "system.lockfeatures"
+msgstr "Remove Feature"
+
+#: web
+#, i18next-interpolation
+msgid "system.lockfeaturesprompt"
+msgstr "Are you sure you want to remove this feature"
+
+#: web
+#, i18next-interpolation
+msgid "system.updatefirmware"
+msgstr "Update Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "system.startupdate"
+msgstr "Start Update"
+
+#: web
+#, i18next-interpolation
+msgid "system.startupdatemsg"
+msgstr "Start the update to the lastest charger firmware"
+
+#: web
+#, i18next-interpolation
+msgid "system.reportproblem"
+msgstr "Report a Problem"
+
+#: web
+#, i18next-interpolation
+msgid "system.systemlogs"
+msgstr "System Logs"
+
+#: web
+#, i18next-interpolation
+msgid "system.debuglog"
+msgstr "Debug Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.deletedebuglog"
+msgstr "Delete Debug Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.deletedebuglogmsg"
+msgstr "This will permanently delete/clear your entire debug log"
+
+#: web
+#, i18next-interpolation
+msgid "system.showdebuglog"
+msgstr "Show Debug Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.hidedebuglog"
+msgstr "Hide Debug Log"
+
+#: web
+#, i18next-interpolation
+msgid "system.factorydefaults"
+msgstr "Set to Factory Defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.setfactorydefaults"
+msgstr "Set to Factory Defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.setfactorydefaultsmsg"
+msgstr "This will restore unit to factory defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.setfactorydefaultsprompt"
+msgstr "Are you sure you want to set unit to Factory Defaults?"
+
+#: web
+#, i18next-interpolation
+msgid "system.setuserdefaults"
+msgstr "Set to User Defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.setuserdefaultsmsg"
+msgstr "This will restore unit to user defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.saveuserdefaults"
+msgstr "Save User Defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.saveuserdefaultsprompt"
+msgstr "Are you sure you want to set unit to User Defaults?"
+
+#: web
+#, i18next-interpolation
+msgid "system.savefactorydefaults"
+msgstr "Save Factory Defaults"
+
+#: web
+#, i18next-interpolation
+msgid "system.deletelogs"
+msgstr "Delete Logs"
+
+#: web
+#, i18next-interpolation
+msgid "system.deletelogsprompt"
+msgstr "Are you sure you want to erase logs?"
+
+#: web
+#, i18next-interpolation
+msgid "system.updatesslcertificate"
+msgstr "Update SSL Certificate"
+
+#: web
+#, i18next-interpolation
+msgid "system.installcertificate"
+msgstr "Start Update"
+
+#: web
+#, i18next-interpolation
+msgid "system.installcertificatemsg"
+msgstr "Update the SSL Certificate used for HTTPS communication"
+
+#: web
+#, i18next-interpolation
+msgid "system.restartchargerprompt"
+msgstr "Are you sure you want to restart the charger?"
+
+#: web
+#, i18next-interpolation
+msgid "system.restartcharger"
+msgstr "Restart Charger"
+
+#: web
+#, i18next-interpolation
+msgid "system.restart"
+msgstr "Restart"
+
+#: web
+#, i18next-interpolation
+msgid "system.prioritisechargerprompt"
+msgstr "Manually allowing this charger may exceed the DRM group limit"
+
+#: web
+#, i18next-interpolation
+msgid "system.firmwareupgrade.remoteenable"
+msgstr "Allow Remote Firmware Update"
+
+#: web
+#, i18next-interpolation
+msgid "timezones.template"
+msgstr "Template"
+
+#: web
+#, i18next-interpolation
+msgid "timezones.region"
+msgstr "Region"
+
+#: web
+#, i18next-interpolation
+msgid "timezones.locale"
+msgstr "Locale"
+
+#: web
+#, i18next-interpolation
+msgid "timezones.offset"
+msgstr "Offset"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.fixed"
+msgstr "Fixed"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.bmid"
+msgstr "BMID"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.can"
+msgstr "CAN"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.autovoltage"
+msgstr "Auto-V"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.loadfromfile"
+msgstr "Load from File"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.read"
+msgstr "Read Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.write"
+msgstr "Write Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.load"
+msgstr "Load from File"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.save"
+msgstr "Save to File"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.print"
+msgstr "Print Label"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.dump"
+msgstr "Dump Label"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.printerquantity"
+msgstr "Label Count"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.failed"
+msgstr "Could Not Save Charger Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.rpcfailed"
+msgstr "Could Not Update Charger Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.success"
+msgstr "Successfully Updated the Charger Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.readsuccess"
+msgstr "Configuration Read From Charger"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.printsuccess"
+msgstr "Label printed successfully"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.printfailed"
+msgstr "Label printing failed"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.dumpfailed"
+msgstr "Label dump failed"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.noprintersfound"
+msgstr "Unable to find printer"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.currentvalidation"
+msgstr "Starting or finishing rate out of range"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.selectmodulecount"
+msgstr "Select Module Count"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.selectbatterytype"
+msgstr "Select Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.selectprinter"
+msgstr "Select Printer"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.moduleacconfigmismatch"
+msgstr "Module does not match AC Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.nobaudrateselected"
+msgstr "No CAN Bit Rate Selected"
+
+#: web
+#, i18next-interpolation
+msgid "alarmconfiguration.savealarmconfig"
+msgstr "Save Alarm Config"
+
+#: web
+#, i18next-interpolation
+msgid "alarmconfiguration.saveoutputconfig"
+msgstr "Save Output Config"
+
+#: web
+#, i18next-interpolation
+msgid "alarmconfiguration.saveinputconfig"
+msgstr "Save Input Config"
+
+#: web
+#, i18next-interpolation
+msgid "alarmconfiguration.noalarms"
+msgstr "No Alarms Assigned to This Group"
+
+#: web
+#, i18next-interpolation
+msgid "alarm.urgency.0"
+msgstr "None"
+
+#: web
+#, i18next-interpolation
+msgid "alarm.urgency.1"
+msgstr "Non-Urgent"
+
+#: web
+#, i18next-interpolation
+msgid "alarm.urgency.2"
+msgstr "Urgent"
+
+#: web
+#, i18next-interpolation
+msgid "alarm.logged"
+msgstr "Logged"
+
+#: web
+#, i18next-interpolation
+msgid "charger.name"
+msgstr "Charger Name"
+
+#: web
+#, i18next-interpolation
+msgid "charger.translation"
+msgstr "Charger"
+
+#: web
+#, i18next-interpolation
+msgid "charger.dcplug"
+msgstr "DC Connector"
+
+#: web
+#, i18next-interpolation
+msgid "charger.accable"
+msgstr "AC Cable"
+
+#: web
+#, i18next-interpolation
+msgid "charger.serialnumber"
+msgstr "Serial No."
+
+#: web
+#, i18next-interpolation
+msgid "charger.customermoduletype"
+msgstr "Module Type"
+
+#: web
+#, i18next-interpolation
+msgid "charger.moduletype"
+msgstr "Module Type"
+
+#: web
+#, i18next-interpolation
+msgid "charger.modulecount"
+msgstr "No. of Modules"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acminimumvoltage"
+msgstr "AC Minimum Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acnominalvoltage"
+msgstr "AC Nominal Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acmaximumvoltage"
+msgstr "AC Maximum Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acratedcurrent"
+msgstr "AC Rated Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acmaximumcurrent"
+msgstr "AC Maximum Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acconfiguredcurrent"
+msgstr "AC Configured Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acfrequency"
+msgstr "AC Frequency"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acphases"
+msgstr "No. of Phases"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currentlimit10a"
+msgstr "10A Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currentlimit15a"
+msgstr "15A Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currentlimit30a"
+msgstr "30A Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "charger.enatelmodelnumber"
+msgstr "Factory Model"
+
+#: web
+#, i18next-interpolation
+msgid "charger.customerpartnumber"
+msgstr "Part Number"
+
+#: web
+#, i18next-interpolation
+msgid "charger.customermodelnumber"
+msgstr "Model Number"
+
+#: web
+#, i18next-interpolation
+msgid "charger.accurrentlimitmode"
+msgstr "AC Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "charger.chargeratemargin"
+msgstr "Charge Rate Margin"
+
+#: web
+#, i18next-interpolation
+msgid "charger.acconfigurations"
+msgstr "AC Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "charger.framesize"
+msgstr "Cabinet Type"
+
+#: web
+#, i18next-interpolation
+msgid "charger.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "charger.templatefilename"
+msgstr "Template Set"
+
+#: web
+#, i18next-interpolation
+msgid "charger.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.i"
+msgstr "Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "charger.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "charger.nextprofiledelay"
+msgstr "Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "charger.completethreshold"
+msgstr "Direct to Complete Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "charger.dualconnector.enable"
+msgstr "Dual Connector Mode"
+
+#: web
+#, i18next-interpolation
+msgid "charger.dualconnector.diffthreshold"
+msgstr "Dual Connector Voltage Difference Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "charger.dualconnector.waittime"
+msgstr "Dual Connector Wait Time"
+
+#: web
+#, i18next-interpolation
+msgid "charger.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "charger.12v.maxoutputcurrent"
+msgstr "12V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.12v.maxcapacity"
+msgstr "12V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.24v.maxoutputcurrent"
+msgstr "24V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.24v.maxcapacity"
+msgstr "24V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.36v.maxoutputcurrent"
+msgstr "36V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.36v.maxcapacity"
+msgstr "36V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.48v.maxoutputcurrent"
+msgstr "48V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.48v.maxcapacity"
+msgstr "48V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.72v.maxoutputcurrent"
+msgstr "72V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.72v.maxcapacity"
+msgstr "72V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.80v.maxoutputcurrent"
+msgstr "80V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.80v.maxcapacity"
+msgstr "80V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.96v.maxoutputcurrent"
+msgstr "96V Maximum Output Current"
+
+#: web
+#, i18next-interpolation
+msgid "charger.96v.maxcapacity"
+msgstr "96V Maximum Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "charger.v"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "charger.totalcycles"
+msgstr "Total Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "charger.completedcycles"
+msgstr "Completed Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "charger.equalisecycles"
+msgstr "Equalize Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "charger.autowatercycles"
+msgstr "Auto Water Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "charger.lifetimeah"
+msgstr "Lifetime Charge"
+
+#: web
+#, i18next-interpolation
+msgid "charger.lifetimeenergy"
+msgstr "Lifetime Energy"
+
+#: web
+#, i18next-interpolation
+msgid "charger.cells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "charger.quickchargestart"
+msgstr "Quick Start Charge"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currenttimerestriction.enable"
+msgstr "Current Restriction"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currenttimerestriction.timelimit"
+msgstr "Current Restriction Delay"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currenttimerestriction.cooldowntime"
+msgstr "Current Restriction Cooldown"
+
+#: web
+#, i18next-interpolation
+msgid "charger.currenttimerestriction.currentlimit"
+msgstr "Current Restriction Limit"
+
+#: web
+#, i18next-interpolation
+msgid "test.output1"
+msgstr "Module 1 Output 1"
+
+#: web
+#, i18next-interpolation
+msgid "test.output2"
+msgstr "Module 1 Output 2"
+
+#: web
+#, i18next-interpolation
+msgid "test.output3"
+msgstr "Module 1 Output 3"
+
+#: web
+#, i18next-interpolation
+msgid "test.output4"
+msgstr "Module 2 Output 1"
+
+#: web
+#, i18next-interpolation
+msgid "test.output5"
+msgstr "Module 2 Output 2"
+
+#: web
+#, i18next-interpolation
+msgid "test.output6"
+msgstr "Module 2 Output 3"
+
+#: web
+#, i18next-interpolation
+msgid "test.input1"
+msgstr "Input 1"
+
+#: web
+#, i18next-interpolation
+msgid "test.input2"
+msgstr "Input 2"
+
+#: web
+#, i18next-interpolation
+msgid "test.input3"
+msgstr "Input 3"
+
+#: web
+#, i18next-interpolation
+msgid "test.input4"
+msgstr "Input 4"
+
+#: web
+#, i18next-interpolation
+msgid "test.input5"
+msgstr "Input 5"
+
+#: web
+#, i18next-interpolation
+msgid "test.input6"
+msgstr "Input 6"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.12v.current"
+msgstr "12V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.12v.capacity"
+msgstr "12V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.24v.current"
+msgstr "24V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.24v.capacity"
+msgstr "24V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.36v.current"
+msgstr "36V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.36v.capacity"
+msgstr "36V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.48v.current"
+msgstr "48V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.48v.capacity"
+msgstr "48V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.72v.current"
+msgstr "72V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.72v.capacity"
+msgstr "72V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.80v.current"
+msgstr "80V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.80v.capacity"
+msgstr "80V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.96v.current"
+msgstr "96V Current"
+
+#: web
+#, i18next-interpolation
+msgid "dcratings.96v.capacity"
+msgstr "96V Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot1.unlock"
+msgstr "Expansion Slot 1"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot1.ioid.1"
+msgstr "IO Fitted To Expansion Slot 1"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot1.commsid.1"
+msgstr "ABI Board Fitted to Expansion Slot 1"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot1.commsid.2"
+msgstr "CAN Fitted To Expansion Slot 1"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot1.commsid.3"
+msgstr "BD Interface Board Fitted to Expansion Slot 1"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot2.unlock"
+msgstr "Expansion Slot 2"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot2.ioid.1"
+msgstr "IO Fitted To Expansion Slot 2"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot2.commsid.1"
+msgstr "ABI Board Fitted to Expansion Slot 2"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot2.commsid.2"
+msgstr "CAN Fitted To Expansion Slot 2"
+
+#: web
+#, i18next-interpolation
+msgid "expansion.slot2.commsid.3"
+msgstr "BD Interface Board Fitted to Expansion Slot 2"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.enable"
+msgstr "Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.macaddress"
+msgstr "Ethernet MAC Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.address"
+msgstr "IPv4 Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.enable"
+msgstr "Enable IPv4"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.gateway"
+msgstr "Gateway"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.netmask"
+msgstr "Subnet Mask"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.use_dhcp"
+msgstr "DHCP Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.dnsserver1"
+msgstr "DNS Server 1"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.dnsserver2"
+msgstr "DNS Server 2"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.httpaddress"
+msgstr "HTTP"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv4.httpsaddress"
+msgstr "HTTPS"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv6.address"
+msgstr "IPv6 Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv6.enable"
+msgstr "Enable IPv6"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv6.prefix_len"
+msgstr "Prefix Length"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.ipv6.router"
+msgstr "Router"
+
+#: web
+#, i18next-interpolation
+msgid "networking.eth0.translation"
+msgstr "Ethernet"
+
+#: web
+#, i18next-interpolation
+msgid "networking.usb0.macaddress"
+msgstr "USB MAC Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.disabled_message"
+msgstr "Wireless radio functions are factory disabled."
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.enable"
+msgstr "Wireless Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.host_mode"
+msgstr "Access Point Mode"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.host_mode_ssid"
+msgstr "SSID"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.host_mode_passphrase"
+msgstr "Passphrase"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.host_mode_timed_mode"
+msgstr "Access Point Mode"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.tx_power"
+msgstr "Transmit Power"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.host_mode_channel"
+msgstr "Channel"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.address"
+msgstr "IPv4 Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.enable"
+msgstr "Enable IPv4"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.gateway"
+msgstr "Gateway"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.netmask"
+msgstr "Subnet Mask"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.use_dhcp"
+msgstr "DHCP Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.dnsserver1"
+msgstr "DNS Server 1"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.dnsserver2"
+msgstr "DNS Server 2"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.httpaddress"
+msgstr "HTTP"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv4.httpsaddress"
+msgstr "HTTPS"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv6.address"
+msgstr "IPv6 Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv6.enable"
+msgstr "Enable IPv6"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv6.prefix_len"
+msgstr "Prefix Length"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ipv6.router"
+msgstr "Router"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.passphrase"
+msgstr "PSK/Passphrase"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.security"
+msgstr "Security"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.ssid"
+msgstr "Network Name (SSID)"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.macaddress"
+msgstr "Wireless MAC Address"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.unlock"
+msgstr "Wireless"
+
+#: web
+#, i18next-interpolation
+msgid "networking.wlan0.translation"
+msgstr "Wireless"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.device.connection_status"
+msgstr "Connected Bluetooth"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.device.upgrade.progress"
+msgstr "Upgrade Progress"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.device.sw_version.translation"
+msgstr "Battery Module Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.device.sw_version.available"
+msgstr "Available Version"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.disabled_message"
+msgstr "Bluetooth radio functions are factory disabled."
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.translation"
+msgstr "Bluetooth"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.0"
+msgstr "Disconnected"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.1"
+msgstr "Discovering"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.2"
+msgstr "Waiting For Device"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.3"
+msgstr "Downloading Logs"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.4"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.12"
+msgstr "Waiting For Device"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.13"
+msgstr "Downloading Logs"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.downloadstate.14"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "networking.bluetooth.macaddress"
+msgstr "Bluetooth MAC Address"
+
+#: web
+#, i18next-interpolation
+msgid "queue.translation"
+msgstr "Battery Queuing"
+
+#: web
+#, i18next-interpolation
+msgid "queue.enable"
+msgstr "Feature Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "queue.mode"
+msgstr "Queue Priority Method"
+
+#: web
+#, i18next-interpolation
+msgid "queue.stateofcharge"
+msgstr "Highest State of Charge"
+
+#: web
+#, i18next-interpolation
+msgid "queue.chargetime"
+msgstr "Longest Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "queue.group"
+msgstr "Battery Group"
+
+#: web
+#, i18next-interpolation
+msgid "queue.primarymaster"
+msgstr "Primary Controller"
+
+#: web
+#, i18next-interpolation
+msgid "queue.secondarymaster"
+msgstr "Secondary Controller"
+
+#: web
+#, i18next-interpolation
+msgid "queue.correctbatterycounter"
+msgstr "Correct Battery Taken"
+
+#: web
+#, i18next-interpolation
+msgid "queue.wrongbatterycounter"
+msgstr "Wrong Battery Taken"
+
+#: web
+#, i18next-interpolation
+msgid "queue.unlock"
+msgstr "Battery Queuing"
+
+#: web
+#, i18next-interpolation
+msgid "queue.opengroupcontroller"
+msgstr "Open Group Controller"
+
+#: web
+#, i18next-interpolation
+msgid "hiddenqueue.translation"
+msgstr "Hidden Battery Queuing"
+
+#: web
+#, i18next-interpolation
+msgid "hiddenqueue.unlock"
+msgstr "Hidden Battery Queuing"
+
+#: web
+#, i18next-interpolation
+msgid "hiddenqueue.group"
+msgstr "Battery Group"
+
+#: web
+#, i18next-interpolation
+msgid "hiddenqueue.warning"
+msgstr "Battery Queuing is operating in hidden mode"
+
+#: web
+#, i18next-interpolation
+msgid "drm.translation"
+msgstr "DRM"
+
+#: web
+#, i18next-interpolation
+msgid "drm.enable"
+msgstr "Feature Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "drm.disable"
+msgstr "Disabled"
+
+#: web
+#, i18next-interpolation
+msgid "drm.mode"
+msgstr "Prioritization Method"
+
+#: web
+#, i18next-interpolation
+msgid "drm.conventional"
+msgstr "Conventional"
+
+#: web
+#, i18next-interpolation
+msgid "drm.opportunity"
+msgstr "Opportunity"
+
+#: web
+#, i18next-interpolation
+msgid "drm.powerlimit"
+msgstr "Power Limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.allocatedpowerlimit"
+msgstr "Charger Power Limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.primarymaster"
+msgstr "Primary Controller"
+
+#: web
+#, i18next-interpolation
+msgid "drm.secondarymaster"
+msgstr "Secondary Controller"
+
+#: web
+#, i18next-interpolation
+msgid "drm.unlock"
+msgstr "DRM"
+
+#: web
+#, i18next-interpolation
+msgid "drm.logs"
+msgstr "Demand Response Logs"
+
+#: web
+#, i18next-interpolation
+msgid "drm.debuglog"
+msgstr "DRM Real Time Data Log"
+
+#: web
+#, i18next-interpolation
+msgid "drm.triggertype"
+msgstr "Trigger Type"
+
+#: web
+#, i18next-interpolation
+msgid "drm.fixed"
+msgstr "Fixed"
+
+#: web
+#, i18next-interpolation
+msgid "drm.search"
+msgstr "Search"
+
+#: web
+#, i18next-interpolation
+msgid "drm.variable"
+msgstr "Time Variable"
+
+#: web
+#, i18next-interpolation
+msgid "drm.external"
+msgstr "External Inputs"
+
+#: web
+#, i18next-interpolation
+msgid "drm.templatename"
+msgstr "Template Name"
+
+#: web
+#, i18next-interpolation
+msgid "drm.opengroupcontroller"
+msgstr "Open Group Controller"
+
+#: web
+#, i18next-interpolation
+msgid "drm.chargerstate"
+msgstr "Charger DRM Status"
+
+#: web
+#, i18next-interpolation
+msgid "drm.clientresponsetimeouts"
+msgstr "Lost Network Packets"
+
+#: web
+#, i18next-interpolation
+msgid "drm.tcpdisconnectevents"
+msgstr "Disconnections from Group"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.status"
+msgstr "Connection Status"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.disabled"
+msgstr "Disabled"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.syncing"
+msgstr "Syncing with Group Controller"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.controller"
+msgstr "Group Controller"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.connected"
+msgstr "Connected"
+
+#: web
+#, i18next-interpolation
+msgid "drm.networking.scanning"
+msgstr "Scanning"
+
+#: web
+#, i18next-interpolation
+msgid "drm.selectedcharger"
+msgstr "Selected Charger"
+
+#: web
+#, i18next-interpolation
+msgid "drm.manualoverride"
+msgstr "Manually Prioritized"
+
+#: web
+#, i18next-interpolation
+msgid "drm.highpriority"
+msgstr "Assigned Priority"
+
+#: web
+#, i18next-interpolation
+msgid "drm.assignedPriority"
+msgstr "Assigned Priority"
+
+#: web
+#, i18next-interpolation
+msgid "drm.assignedPriorityHigh"
+msgstr "High"
+
+#: web
+#, i18next-interpolation
+msgid "drm.assignedPriorityNormal"
+msgstr "Normal"
+
+#: web
+#, i18next-interpolation
+msgid "drm.prioritise"
+msgstr "Manually Allow Charging"
+
+#: web
+#, i18next-interpolation
+msgid "drm.participants"
+msgstr "Participants"
+
+#: web
+#, i18next-interpolation
+msgid "drm.prioritiseconfirm"
+msgstr "Manually Allow Charging"
+
+#: web
+#, i18next-interpolation
+msgid "drm.prioritisewarning"
+msgstr "May exceed group power limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.prioritiseactive"
+msgstr "Manually Prioritized"
+
+#: web
+#, i18next-interpolation
+msgid "drm.remove"
+msgstr "Remove Charger From Group"
+
+#: web
+#, i18next-interpolation
+msgid "drm.removewarning"
+msgstr "Charger will be removed permanently"
+
+#: web
+#, i18next-interpolation
+msgid "drm.opengroupcontrollertext"
+msgstr "Logs are not available in participant chargers, Please visit group controller."
+
+#: web
+#, i18next-interpolation
+msgid "drm.removeprimarywarning"
+msgstr "Primary controller will be removed permanently"
+
+#: web
+#, i18next-interpolation
+msgid "drm.chargermanualoverride"
+msgstr "Manually Prioritized"
+
+#: web
+#, i18next-interpolation
+msgid "drm.manuallyallowcharging"
+msgstr "Manually Allow Charging"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.cancel"
+msgstr "Cancel"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.apply"
+msgstr "Apply"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.label"
+msgstr "Select Period to Display on Graph"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.last1day"
+msgstr "Last 1 Day"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.last7days"
+msgstr "Last 7 Days"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.last1month"
+msgstr "Last 1 Month"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.last3months"
+msgstr "Last 3 Months"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.last6months"
+msgstr "Last 6 Months"
+
+#: web
+#, i18next-interpolation
+msgid "drm.dtrangepicker.lastyear"
+msgstr "Last 1 Year"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.power"
+msgstr "Power"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.powerlimit"
+msgstr "Power Limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.powerdemand"
+msgstr "Power Demand"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.powerused"
+msgstr "Power Used"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.panelheading"
+msgstr "DRM Logs Graph"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.nologs"
+msgstr "No Logs for the Selected Period."
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.selectperiod"
+msgstr "Select Period to Display on Graph"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.panelheading"
+msgstr "General DRM Logs Statistics & Analytics"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.selectedperiod"
+msgstr "Selected period"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.activetime"
+msgstr "Proportion of time DRM is active (%)"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.averagesoc"
+msgstr "Average state of charge at disconnect"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.averagecooldowntime"
+msgstr "Average cool-down time (Sec)"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.averagepowerused"
+msgstr "Average power usage (kW)"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.peaktoaveragepower"
+msgstr "Peak to average power ratio"
+
+#: web
+#, i18next-interpolation
+msgid "drm.graph.statistics.peakpower"
+msgstr "Peak power (kW)"
+
+#: web
+#, i18next-interpolation
+msgid "drm.state.paused"
+msgstr "Paused"
+
+#: web
+#, i18next-interpolation
+msgid "drm.state.charging"
+msgstr "Charging"
+
+#: web
+#, i18next-interpolation
+msgid "drm.state.idle"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "drm.state.disconnected"
+msgstr "Disconnected"
+
+#: web
+#, i18next-interpolation
+msgid "drm.override.active"
+msgstr "Active"
+
+#: web
+#, i18next-interpolation
+msgid "drm.override.inactive"
+msgstr "Inactive"
+
+#: web
+#, i18next-interpolation
+msgid "drm.realtimelog.enable"
+msgstr "Logging Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "drm.realtimelog.period"
+msgstr "Cycles between logs"
+
+#: web
+#, i18next-interpolation
+msgid "drm.trigger.enable"
+msgstr "Use External Inputs"
+
+#: web
+#, i18next-interpolation
+msgid "drm.trigger.powerlimita"
+msgstr "External Input Limit A"
+
+#: web
+#, i18next-interpolation
+msgid "drm.trigger.powerlimitb"
+msgstr "External Input Limit B"
+
+#: web
+#, i18next-interpolation
+msgid "drm.trigger.powerlimitc"
+msgstr "External Input Limit C"
+
+#: web
+#, i18next-interpolation
+msgid "drm.group.translation"
+msgstr "Charger DRM Group"
+
+#: web
+#, i18next-interpolation
+msgid "drm.group.activepowerlimit"
+msgstr "Active Power Limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.group.powerdemand"
+msgstr "Total Power Demand"
+
+#: web
+#, i18next-interpolation
+msgid "drm.group.powerused"
+msgstr "Total Power Used"
+
+#: web
+#, i18next-interpolation
+msgid "drm.options.allowoverrideweb"
+msgstr "Manually Allow Charging using Web Interface"
+
+#: web
+#, i18next-interpolation
+msgid "drm.options.allowoverridepanel"
+msgstr "Manually Allow Charging using Front Panel Interface"
+
+#: web
+#, i18next-interpolation
+msgid "drm.options.allowremovalpanel"
+msgstr "Remove Charger from Group using Front Panel Interface"
+
+#: web
+#, i18next-interpolation
+msgid "drm.template.enable"
+msgstr "Time Variable Template Builder"
+
+#: web
+#, i18next-interpolation
+msgid "drm.template.show"
+msgstr "Show"
+
+#: web
+#, i18next-interpolation
+msgid "drm.template.hide"
+msgstr "Hide"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.limit"
+msgstr "Power Limit"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.midnight"
+msgstr "Midnight"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.a"
+msgstr "A"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.b"
+msgstr "B"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.c"
+msgstr "C"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.d"
+msgstr "D"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.e"
+msgstr "E"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.f"
+msgstr "F"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.g"
+msgstr "G"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.h"
+msgstr "H"
+
+#: web
+#, i18next-interpolation
+msgid "drm.period.i"
+msgstr "I"
+
+#: web
+#, i18next-interpolation
+msgid "teamed.translation"
+msgstr "Teamed Charging"
+
+#: web
+#, i18next-interpolation
+msgid "teamed.unlock"
+msgstr "Teamed Charging"
+
+#: web
+#, i18next-interpolation
+msgid "teamed.enable"
+msgstr "Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "teamed.leader"
+msgstr "Primary"
+
+#: web
+#, i18next-interpolation
+msgid "teamed.follower"
+msgstr "Secondary"
+
+#: web
+#, i18next-interpolation
+msgid "device.serialnumber"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "software.version"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "software.versionshort"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "locales.en_US"
+msgstr "United States – English"
+
+#: web
+#, i18next-interpolation
+msgid "locales.en_CA"
+msgstr "Canada – English"
+
+#: web
+#, i18next-interpolation
+msgid "locales.en_NZ"
+msgstr "New Zealand – English"
+
+#: web
+#, i18next-interpolation
+msgid "locales.en_AU"
+msgstr "Australia – English"
+
+#: web
+#, i18next-interpolation
+msgid "locales.en_GB"
+msgstr "United Kingdom – English"
+
+#: web
+#, i18next-interpolation
+msgid "locales.de_DE"
+msgstr "Germany – German (Deutschland)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.es_419"
+msgstr "Latin America – Spanish (América Latina)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.es_ES"
+msgstr "Spain – Spanish (España)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.fr_FR"
+msgstr "France – French"
+
+#: web
+#, i18next-interpolation
+msgid "locales.fr_CA"
+msgstr "Canada – French"
+
+#: web
+#, i18next-interpolation
+msgid "locales.it_IT"
+msgstr "Italy – Italian (Italia)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.ko_KR"
+msgstr "Korea – Korean (대한민국)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.ms_MY"
+msgstr "Malaysia - Malay"
+
+#: web
+#, i18next-interpolation
+msgid "locales.nl_NL"
+msgstr "Netherlands – Dutch (Nederland)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.pl_PL"
+msgstr "Poland – Polish (Polska)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.pt_BR"
+msgstr "Brazil – Portuguese (Brasil)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.pt_PT"
+msgstr "Portugal – Portuguese"
+
+#: web
+#, i18next-interpolation
+msgid "locales.ru_RU"
+msgstr "Russia – Russian (Россия)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.sl_SI"
+msgstr "Slovenia – Slovenian (Slovenija)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.th_TH"
+msgstr "Thailand – Thai (ราชอาณาจักรไทย)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.tr_TR"
+msgstr "Turkey – Turkish (Türkiye)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.vi_VN"
+msgstr "Vietnam – Vietnamese (Việt Nam)"
+
+#: web
+#, i18next-interpolation
+msgid "locales.zh_CN"
+msgstr "China – Chinese (中华人民共和国)"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.pushed"
+msgstr "Pushed"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.menu"
+msgstr "MENU"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.equalise"
+msgstr "EQ"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.start"
+msgstr "START"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.starting"
+msgstr "Starting"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.connectbattery"
+msgstr "Connect Battery"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.total"
+msgstr "Total"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.percell"
+msgstr "Per Cell"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.totalcap"
+msgstr "TOTAL"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.percellcap"
+msgstr "PER CELL"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.can"
+msgstr "CAN"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.canenabled"
+msgstr "CAN Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.canconnecting"
+msgstr "CAN Connecting..."
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.connected"
+msgstr "Connected"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.connectedexp"
+msgstr "Connected!"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.connecting"
+msgstr "Connecting..."
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.equalising"
+msgstr "Equalizing"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.stopped"
+msgstr "Charger Stopped"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.error"
+msgstr "Charger Error"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.avs"
+msgstr "Auto Voltage Sense"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.autowatering"
+msgstr "Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.identifying"
+msgstr "Identifying Battery"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.atduration"
+msgstr "at %duration"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.delayed"
+msgstr "Delayed"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.delayedfor"
+msgstr "Delayed For"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.delayeduntil"
+msgstr "Delayed Until"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.duration"
+msgstr "%duration"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.durationelapsed"
+msgstr "%duration elapsed"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.durationtaken"
+msgstr "%duration taken"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.durationremaining"
+msgstr "%duration remaining"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.servicemode"
+msgstr "Service Mode"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.batteryready"
+msgstr "Battery Ready"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.batteryready2"
+msgstr "Until Battery Ready"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.batteryunplugged"
+msgstr "Battery Unplugged"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.charging"
+msgstr "Charging"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.teamedcharging"
+msgstr "Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.teamedchargingfollower"
+msgstr "Secondary"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.identify1"
+msgstr "Hello"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.identify2"
+msgstr "Is it me you're looking for?"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.updating"
+msgstr "Installing Updates"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.testing"
+msgstr "Testing"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.moduletest"
+msgstr "Module Test"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.noprofile"
+msgstr "No profile detected"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.networksettings"
+msgstr "Network Settings"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.displaysettings"
+msgstr "Display Options"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.brightness"
+msgstr "Display Brightness"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.outputtest"
+msgstr "Output Test"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.inputtest"
+msgstr "Input Test"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.information"
+msgstr "Information"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.moduleinformation"
+msgstr "Module Information"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.acratings"
+msgstr "AC Ratings"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.dcratings"
+msgstr "DC Ratings"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.macaddress"
+msgstr "MAC Address"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.macaddresses"
+msgstr "MAC Addresses"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.usbstorage"
+msgstr "USB Storage"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.usbwriting"
+msgstr "Writing To USB ..."
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.unlockfeatures"
+msgstr "Unlock Features"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.pending"
+msgstr "Pending"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.activitylog"
+msgstr "Alarm Log"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.time"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.autowaterstart"
+msgstr "Auto Water Start"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.restartcharger"
+msgstr "Restart Charger"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.parameter"
+msgstr "%s"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.home"
+msgstr "HOME"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.back"
+msgstr "BACK"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.alarms"
+msgstr "Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.noalarms"
+msgstr "No Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.usebypassprofile"
+msgstr "Use Bypass Profile"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.cancelbypass"
+msgstr "Cancel"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.savewifisettings"
+msgstr "Save Wireless Settings to USB"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.savediagnosticfile"
+msgstr "Save Diagnostics File to USB"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.startupgrade"
+msgstr "Start Upgrade Procedure"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.loadwifisettings"
+msgstr "Load Wireless Settings"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.expansionboard1"
+msgstr "Expansion Board 1"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.expansionboard2"
+msgstr "Expansion Board 2"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.bms"
+msgstr "CAN Controlled Charging"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.nextbattery"
+msgstr "Next Battery"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.returnnext"
+msgstr "Return to Service Next"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.wrongbattery"
+msgstr "Wrong Battery"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.reconnectbattery"
+msgstr "Reconnect Battery"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.chargedelayed"
+msgstr "Charge Delayed"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.drmprimaryinvalid"
+msgstr "DRM No Controller"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.nextbatterycharger"
+msgstr "Next Battery Charger: "
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.profilepending"
+msgstr "Next Profile Pending"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.pre"
+msgstr "Pre"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.bulk"
+msgstr "Bulk"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.finishing"
+msgstr "Finishing"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.maintenance"
+msgstr "Maintenance"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.completed"
+msgstr "Completed"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.drmdelay"
+msgstr "DRM Response"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.cooldown"
+msgstr "Cooldown"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.idle"
+msgstr "Idle"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.finished"
+msgstr "Finalizing"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.bmidenabled"
+msgstr "BMID Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.bmidconnecting"
+msgstr "BMID Connecting..."
+
+#: web
+#, i18next-interpolation
+msgid "displaytext.dealerinformation"
+msgstr "Dealer Information"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.translation"
+msgstr "Watering Settings"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.autowateronlowwater"
+msgstr "Auto Water on Low Water Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.cyclecount"
+msgstr "Auto Water On Cycle"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.day"
+msgstr "Day of Week"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.duration"
+msgstr "Duration"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.mode.manual"
+msgstr "Manual Watering Only"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.mode.profile"
+msgstr "Simple Delay"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.mode.cycle"
+msgstr "Cycle Based"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.mode.time"
+msgstr "Time Based"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.mode.aftereq"
+msgstr "After Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.manual"
+msgstr "Set Auto Water"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.simpledelay"
+msgstr "Auto Water Delay"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.time"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.afterequalisefrequency"
+msgstr "Equalize Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.weekfrequency"
+msgstr "Week Frequency"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.state.inactive"
+msgstr "Inactive"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.state.pending"
+msgstr "Pending"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.state.blockedonequalise"
+msgstr "Blocked - Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.state.inprogress"
+msgstr "In Progress"
+
+#: web
+#, i18next-interpolation
+msgid "autowater.state.complete"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.12"
+msgstr "12V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.24"
+msgstr "24V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.36"
+msgstr "36V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.48"
+msgstr "48V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.72"
+msgstr "72V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.80"
+msgstr "80V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.label.96"
+msgstr "96V Battery Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage1.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage2.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage3.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage4.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage5.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.enable"
+msgstr "Enable"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.profile.group"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.nominalvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.ahr"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "autovoltagesense.voltage6.numbercells"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "battery.bulkchargetime"
+msgstr "Bulk Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery.cellvoltage"
+msgstr "Cell Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "battery.chargeahr"
+msgstr "Charge Ah"
+
+#: web
+#, i18next-interpolation
+msgid "battery.connectedtime"
+msgstr "Connected Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery.current"
+msgstr "Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "battery.defaulttemperature"
+msgstr "Typical Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery.equalisechargetime"
+msgstr "Equalize Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery.finishingchargetime"
+msgstr "Finishing Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery.status"
+msgstr "Battery Status"
+
+#: web
+#, i18next-interpolation
+msgid "battery.temperature"
+msgstr "Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery.totalchargetime"
+msgstr "Total Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery.type"
+msgstr "Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "battery.voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "cable.name"
+msgstr "Cable Size"
+
+#: web
+#, i18next-interpolation
+msgid "cable.length"
+msgstr "Cable Length"
+
+#: web
+#, i18next-interpolation
+msgid "cable.resistanceoffset"
+msgstr "Cable Additional Resistance"
+
+#: web
+#, i18next-interpolation
+msgid "cable.resistivity"
+msgstr "Cable Resistivity"
+
+#: web
+#, i18next-interpolation
+msgid "cable.tempcomp"
+msgstr "Cable Temperature Compensation Factor"
+
+#: web
+#, i18next-interpolation
+msgid "cable.temperature"
+msgstr "Cable Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.profile_name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.fc_profile_name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.rated_current"
+msgstr "Starting Current"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.fc_rated_current"
+msgstr "Starting Current"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.fc_profile_valid"
+msgstr "Dual Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.rated_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.rated_capacity"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.nominal_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.nominal_capacity"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.nominal_current"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.nominal_current_fc"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.cell_count"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.information"
+msgstr "Battery Name"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.battery_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.battery_current"
+msgstr "Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.battery_temperature"
+msgstr "Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.battery_state"
+msgstr "Battery State"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.customer"
+msgstr "Company"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.installed_date"
+msgstr "Date Installed"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.battery_type"
+msgstr "Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.serial_number"
+msgstr "Battery Module Serial"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.time"
+msgstr "Battery Module Clock"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.sw_version"
+msgstr "Battery Module Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.connection_status"
+msgstr "Connection Status"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.alarm_status"
+msgstr "Battery Module Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.location"
+msgstr "Location"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.total_cycles"
+msgstr "Total Charge Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.complete_cycles"
+msgstr "Cycles Completed"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.equalise_cycles"
+msgstr "With Equalize Charge"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.water_level_low_total_cycles"
+msgstr "With Low Water"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.temperature_low_total_cycles"
+msgstr "With Low Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.temperature_high_total_cycles"
+msgstr "With High Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.auto_water_cycles"
+msgstr "With Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.cycles_since_autowater"
+msgstr "Cycles Since Last Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.cycles_since_equalise"
+msgstr "Cycles Since Last Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.equivalent_battery_unit"
+msgstr "Equivalent Battery Unit"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.high_depth_of_discharge_cycles"
+msgstr "With Deep Discharge"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.midpoint_voltage"
+msgstr "Battery Midpoint Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.lifetimecharge"
+msgstr "Lifetime Charge"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.lifetimedischarge"
+msgstr "Lifetime Discharge"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.state_of_charge"
+msgstr "State Of Charge"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.state_of_health"
+msgstr "State Of Health"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.imbalance_threshold"
+msgstr "Voltage Imbalance Alarm Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.temperature_high_threshold"
+msgstr "High Temperature Alarm Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.temperature_low_threshold"
+msgstr "Low Temperature Alarm Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.charging_over_temperature_critical"
+msgstr "Start Up Over Temperature Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.charging_over_temperature_warning"
+msgstr "Charging Over Temperature Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.state_of_health_alarm_threshold"
+msgstr "State of Health Alarm Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.state_of_charge_alarm_threshold"
+msgstr "State of Charge Alarm Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.data_log_sampling_rate"
+msgstr "Periodic Log Sampling Interval"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.discharge_idle_time_limit"
+msgstr "Discharge to Idle Transition Time"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.charge_idle_time_limit"
+msgstr "Charge to Idle Transition Time"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.regen_charge_time_limit"
+msgstr "Regen to Charge Transition Time"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.fc_profile_auto_equalise_period"
+msgstr "Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.idle_current_threshold"
+msgstr "Idle Current Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.alias.cable_resistance"
+msgstr "Cable Additional Resistance"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.selectedtemplate"
+msgstr "Configuration Template"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.timemismatch"
+msgstr "Computer Time Mismatch"
+
+#: web
+#, i18next-interpolation
+msgid "batterymodule.timemismatchmessage"
+msgstr "The computer time detected is different to the charger time. Please confirm that your computer time is correct. This will set the charger time to the computer time."
+
+#: web
+#, i18next-interpolation
+msgid "bms.pilotsignalofftext"
+msgstr "Short"
+
+#: web
+#, i18next-interpolation
+msgid "bms.pilotsignalontext"
+msgstr "CANOpen"
+
+#: web
+#, i18next-interpolation
+msgid "bms.terminationofftext"
+msgstr "Open"
+
+#: web
+#, i18next-interpolation
+msgid "bms.terminationontext"
+msgstr "120Ω"
+
+#: web
+#, i18next-interpolation
+msgid "bms.unlock"
+msgstr "CAN Controlled Charging"
+
+#: web
+#, i18next-interpolation
+msgid "bms.batteryrevisionbypass"
+msgstr "Ignore Protocol Revision Level"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.maximum_measured_discharge_current"
+msgstr "Maximum Measured Discharge Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.ah_returned_during_last_charge"
+msgstr "Capacity Returned During Last Charge"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.ah_expended_since_last_charge"
+msgstr "Capacity Expended Since Last Charge"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.maximum_charge_current"
+msgstr "Maximum Charge Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_current"
+msgstr "Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_state_of_charge"
+msgstr "Battery State of Charge"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_temperature"
+msgstr "Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.charger_status"
+msgstr "Charger Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.charge_current_requested"
+msgstr "Charger Current Requested"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.maximum_available_current"
+msgstr "Maximum Available Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_status"
+msgstr "Battery Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.charge_voltage_limit"
+msgstr "Charger Voltage Limit"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_state_of_health"
+msgstr "Battery State of Health"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.number_of_cells"
+msgstr "Number of Cells"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.cumulative_total_charge_ah"
+msgstr "Cumulative Total Capacity Returned"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_type"
+msgstr "Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.ah_capacity"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_voltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_voltage_charger"
+msgstr "Charger Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.battery_current_charger"
+msgstr "Charger Battery Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.vforce.protocol_revision_level"
+msgstr "Protocol Revision Level"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.vforce.battery_status_2"
+msgstr "Battery Status 2"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.enatel.extended_status"
+msgstr "Extended Charger Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.enatel.pilot_signal_type"
+msgstr "Pilot Signal Types"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.enatel.remaining_charge_time"
+msgstr "Remaining Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.charger_status_extended"
+msgstr "Extended Charger Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.battery_temperature_highest"
+msgstr "Battery Temperature Highest"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.battery_temperature_lowest"
+msgstr "Battery Temperature Lowest"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.max_regen_current"
+msgstr "Maximum Regen Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.max_discharge_current"
+msgstr "Maximum Discharge Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.manufacturer_firmware_version"
+msgstr "Manufacturer Firmware Version"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.navitas.cumulative_total_discharge_ah"
+msgstr "Cumulative Total Capacity Discharged"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.triathlon.battery_nominal_voltage"
+msgstr "Battery Nominal Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.triathlon.ah_capacity_effective"
+msgstr "Effective Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.leader_status"
+msgstr "Primary Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.follower_status"
+msgstr "Secondary Status"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.leader_voltage_demand"
+msgstr "Secondary Voltage Limit"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.leader_current_demand"
+msgstr "Secondary Current Requested"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.follower_output_current"
+msgstr "Secondary Current Output"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.maximum_current"
+msgstr "Secondary Maximum Available Current"
+
+#: web
+#, i18next-interpolation
+msgid "bms.can.teamed.module_alarms"
+msgstr "Secondary Module Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "config.version"
+msgstr "Configuration File"
+
+#: web
+#, i18next-interpolation
+msgid "currentcontroller.enable"
+msgstr "Current Regulator"
+
+#: web
+#, i18next-interpolation
+msgid "currentcontroller.minimumvalue"
+msgstr "Minimum Regulator Current"
+
+#: web
+#, i18next-interpolation
+msgid "currentcontroller.maximumvalue"
+msgstr "Maximum Regulator Current"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.translation"
+msgstr "Equalize Settings"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.mode.manual"
+msgstr "Manual Equalize Only"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.mode.profile"
+msgstr "Simple Delay"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.mode.cycle"
+msgstr "Cycle Based"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.mode.time"
+msgstr "Time Based"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.autoeqonimbalance"
+msgstr "Auto Equalize On Cell Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.cyclecount"
+msgstr "Equalize on Count"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.day"
+msgstr "Day of Week"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.simpledelay"
+msgstr "Equalize Delay"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.time"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.weekfrequency"
+msgstr "Week Frequency"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.allowoverride"
+msgstr "Allow User Override"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.manual"
+msgstr "Set Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.inactive"
+msgstr "Inactive"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.pending"
+msgstr "Pending"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.blockedontemperature"
+msgstr "Blocked - Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.blockedonwaterlevel"
+msgstr "Blocked - Water Level"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.inprogress"
+msgstr "In Progress"
+
+#: web
+#, i18next-interpolation
+msgid "equalise.state.complete"
+msgstr "Complete"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.poweron"
+msgstr "Microprocessor Start"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.commandoff"
+msgstr "Off command"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.dabovervoltage"
+msgstr "DAB Output OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.outputovervoltage"
+msgstr "Output/Battery OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.inputovervoltage"
+msgstr "DAB Input OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.postmate"
+msgstr "Postmate Open"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.dischargetimeout"
+msgstr "Discharge Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.matchterminaltimeout"
+msgstr "Match Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.eepromfail"
+msgstr "EEPROM Fail in Init"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.firmwarefail"
+msgstr "Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.bothfansfail"
+msgstr "Both Fans Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.auxiliaryinputlow"
+msgstr "V Aux In Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.primaryvoltagelow"
+msgstr "V Aux Pri GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.secondaryvoltagelow"
+msgstr "V Aux Sec GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.outputundervoltage"
+msgstr "DAB Output UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.overtemperature"
+msgstr "Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.inputundervoltage"
+msgstr "DAB Input UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.commstimeout"
+msgstr "Comms Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.reversepolarity"
+msgstr "Reverse Polarity"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.paralleltoseries"
+msgstr "Parallel to Series"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.currentlimit"
+msgstr "Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.lowinputturndown"
+msgstr "Low Input or Dropped Phase Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.highinputturndown"
+msgstr "High Input Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.rackposition"
+msgstr "Rack Position"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.thermalturndown"
+msgstr "Thermal Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.fanfail"
+msgstr "Fan Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.temperaturesensorfail"
+msgstr "Temp Sense Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.notrunning"
+msgstr "Not Running"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.eepromwritefail"
+msgstr "EEPROM Write Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.warning.eeprominitialized"
+msgstr "EEPROM Init Default"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.buscommsfail"
+msgstr "Bus Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.poweron"
+msgstr "Microprocessor Start"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.commandoff"
+msgstr "Off command"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.dabovervoltage"
+msgstr "DAB Output OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.outputovervoltage"
+msgstr "Output/Battery OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.inputovervoltage"
+msgstr "DAB Input OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.postmate"
+msgstr "Postmate Open"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.dischargetimeout"
+msgstr "Discharge Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.matchterminaltimeout"
+msgstr "Match Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.eepromfail"
+msgstr "EEPROM Fail in Init"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.firmwarefail"
+msgstr "Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.bothfansfail"
+msgstr "Both Fans Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.auxiliaryinputlow"
+msgstr "V Aux In Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.primaryvoltagelow"
+msgstr "V Aux Pri GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.secondaryvoltagelow"
+msgstr "V Aux Sec GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.outputundervoltage"
+msgstr "DAB Output UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.overtemperature"
+msgstr "Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.inputundervoltage"
+msgstr "DAB Input UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.commstimeout"
+msgstr "Comms Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.reversepolarity"
+msgstr "Reverse Polarity"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.paralleltoseries"
+msgstr "Parallel to Series"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.currentlimit"
+msgstr "Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.lowinputturndown"
+msgstr "Low Input or Dropped Phase Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.highinputturndown"
+msgstr "High Input Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.rackposition"
+msgstr "Rack Position"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.thermalturndown"
+msgstr "Thermal Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.fanfail"
+msgstr "Fan Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.temperaturesensorfail"
+msgstr "Temp Sense Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.notrunning"
+msgstr "Not Running"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.eepromwritefail"
+msgstr "EEPROM Write Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fault.eeprominitialized"
+msgstr "EEPROM Init Default"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.currentlimit"
+msgstr "Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.eepromfail"
+msgstr "EEPROM Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fanfail"
+msgstr "Fan Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.overtemperature"
+msgstr "Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.temperaturesensorfail"
+msgstr "Temperature Sensor Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.power_on"
+msgstr "Microprocessor Start"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.off_command"
+msgstr "Off command"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.dab_over_voltage"
+msgstr "DAB Output OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.output_over_voltage"
+msgstr "Output/Battery OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.input_over_voltage"
+msgstr "DAB Input OV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.postmate_open"
+msgstr "Postmate Open"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.discharge_timeout"
+msgstr "Discharge Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.match_terminal_timeout"
+msgstr "Match Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.eeprom_fail"
+msgstr "EEPROM Fail in Init"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.firmware_fail"
+msgstr "Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.both_fans_fail"
+msgstr "Both Fans Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.auxiliary_input_low"
+msgstr "V Aux In Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.primary_voltage_low"
+msgstr "V Aux Pri GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.secondary_voltage_low"
+msgstr "V Aux Sec GD Low"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.output_under_voltage"
+msgstr "DAB Output UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.over_temperature"
+msgstr "Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.input_under_voltage"
+msgstr "DAB Input UV"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.comms_timeout"
+msgstr "Comms Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.reverse_polarity"
+msgstr "Reverse Polarity"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.parallel_to_series"
+msgstr "Parallel to Series"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.current_limit"
+msgstr "Current limit"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.low_input_turndown"
+msgstr "Low Input or Dropped Phase Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.high_input_turndown"
+msgstr "High Input Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.rack_position"
+msgstr "Rack Position"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.thermal_turndown"
+msgstr "Thermal Turndown"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.fan_fail"
+msgstr "Fan Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.primary_temperature_sensor_fail"
+msgstr "Temp Sense Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.not_running"
+msgstr "Not Running"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.eeprom_write_failed"
+msgstr "EEPROM Write Fail"
+
+#: web
+#, i18next-interpolation
+msgid "modulealarms.eeprom_initialized"
+msgstr "EEPROM Init Default"
+
+#: web
+#, i18next-interpolation
+msgid "modules.maximumcurrent"
+msgstr "Maximum Module Current"
+
+#: web
+#, i18next-interpolation
+msgid "modules.maximumvoltage"
+msgstr "Maximum Module Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "modules.minimumvoltage"
+msgstr "Minimum Module Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "realtimelog.enable"
+msgstr "Logging Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "realtimelog.period"
+msgstr "Cycles between logs"
+
+#: web
+#, i18next-interpolation
+msgid "ntp.enable"
+msgstr "NTP Enable"
+
+#: web
+#, i18next-interpolation
+msgid "ntp.peer"
+msgstr "NTP Server"
+
+#: web
+#, i18next-interpolation
+msgid "powersave.enable"
+msgstr "Automatic Module Shutdown"
+
+#: web
+#, i18next-interpolation
+msgid "powersave.minimumtarget"
+msgstr "Module Shutdown Lower Target"
+
+#: web
+#, i18next-interpolation
+msgid "powersave.maximumtarget"
+msgstr "Module Shutdown Upper Target"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.batterytemperature"
+msgstr "Battery Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.batterycooldowntime"
+msgstr "Battery Cooldown Time"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.conditionoperator"
+msgstr "Operator"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.allowequalise"
+msgstr "Allow Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.allowautowatering"
+msgstr "Allow Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maintenancestartthreshold"
+msgstr "Maintenance Start Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maintenancestartdelay"
+msgstr "Maintenance Start Delay"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.prechargethreshold"
+msgstr "Pre Charge Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.minimumstartcellvoltage"
+msgstr "Minimum Start Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maximumstartcellvoltage"
+msgstr "Maximum Start Threshold"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.nominalcellvoltage"
+msgstr "Nominal Cell Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.derivative"
+msgstr "Derivative Limit"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.dualname"
+msgstr "Dual Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.slottimeout"
+msgstr "Slot Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.slottimeoutah"
+msgstr "Slot Capacity Timeout"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.timeoutbehaviour"
+msgstr "Timeout Behavior"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.constantcurrent"
+msgstr "Const. Current"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.constantvoltage"
+msgstr "Const. Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.equaliselockouttime"
+msgstr "Equalize Lockout Time"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.overdischargecellvoltage"
+msgstr "Over Discharge Cell Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.overdischargeretesttime"
+msgstr "Over Discharge Retest Time"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.minimumstartcurrent"
+msgstr "Minimum Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maximumstartcurrent"
+msgstr "Maximum Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.minimumfinishcurrent"
+msgstr "Minimum Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maximumfinishcurrent"
+msgstr "Maximum Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.startofchargeovertemperature"
+msgstr "Start Up Battery Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.duringchargeovertemperature"
+msgstr "Charging Battery Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.overtemperaturerestart"
+msgstr "Battery Restart Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.equalisestartminimumtemperature"
+msgstr "Minimum Equalize Start Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.equalisestartmaximumtemperature"
+msgstr "Maximum Equalize Start Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.selected.primary.name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.selected.secondary.name"
+msgstr "Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.pre"
+msgstr "Pre"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.bulk"
+msgstr "Bulk"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.finishing"
+msgstr "Finishing"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.equalise"
+msgstr "Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "profiles.maintenance"
+msgstr "Maintenance"
+
+#: web
+#, i18next-interpolation
+msgid "servicemode.enable"
+msgstr "Service Mode Output"
+
+#: web
+#, i18next-interpolation
+msgid "servicemode.dualconnectormode"
+msgstr "Dual Connector Mode"
+
+#: web
+#, i18next-interpolation
+msgid "servicemode.current"
+msgstr "Current"
+
+#: web
+#, i18next-interpolation
+msgid "servicemode.voltage"
+msgstr "Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "servicemode.time"
+msgstr "Duration"
+
+#: web
+#, i18next-interpolation
+msgid "startdelay.delay"
+msgstr "Duration"
+
+#: web
+#, i18next-interpolation
+msgid "startdelay.translation"
+msgstr "Start Time Delay"
+
+#: web
+#, i18next-interpolation
+msgid "startdelay.allowoverride"
+msgstr "Allow User Override"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturealarms.startofchargethreshold"
+msgstr "Start Up Battery Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturealarms.duringchargethreshold"
+msgstr "Charging Battery Over Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturealarms.restartthreshold"
+msgstr "Battery Restart Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturecompensation.enable"
+msgstr "Temperature Compensation Enable"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturecompensation.minimumtemperature"
+msgstr "Temperature Compensation Minimum Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "temperaturecompensation.maximumtemperature"
+msgstr "Temperature Compensation Maximum Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "time.local"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "time.locale"
+msgstr "Locale"
+
+#: web
+#, i18next-interpolation
+msgid "time.zone"
+msgstr "Timezone"
+
+#: web
+#, i18next-interpolation
+msgid "time.now"
+msgstr "Time and Date"
+
+#: web
+#, i18next-interpolation
+msgid "time.monitortime"
+msgstr "Charger Date and Time"
+
+#: web
+#, i18next-interpolation
+msgid "time.computertime"
+msgstr "Set to Computer Time"
+
+#: web
+#, i18next-interpolation
+msgid "timeofday.translation"
+msgstr "Daily Charge Schedule"
+
+#: web
+#, i18next-interpolation
+msgid "timeofday.allowoverride"
+msgstr "Allow User Override"
+
+#: web
+#, i18next-interpolation
+msgid "voltagecontroller.enable"
+msgstr "Voltage Regulator"
+
+#: web
+#, i18next-interpolation
+msgid "voltagecontroller.minimumvalue"
+msgstr "Minimum Regulator Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "voltagecontroller.maximumvalue"
+msgstr "Maximum Regulator Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "controllersettings.service_mode"
+msgstr "Service Mode"
+
+#: web
+#, i18next-interpolation
+msgid "powermodules.nopowermodules"
+msgstr "No charger modules found"
+
+#: web
+#, i18next-interpolation
+msgid "powermodules.hardwareerror"
+msgstr "Module Hardware Error"
+
+#: web
+#, i18next-interpolation
+msgid "powermodules.module"
+msgstr "Module"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.unassigned"
+msgstr "Unassigned"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output1"
+msgstr "Module 1 Output 1"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output2"
+msgstr "Module 1 Output 2"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output3"
+msgstr "Module 1 Output 3"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output4"
+msgstr "Module 2 Output 1"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output5"
+msgstr "Module 2 Output 2"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.output6"
+msgstr "Module 2 Output 3"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.buzzer"
+msgstr "Internal Speaker"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.bsired"
+msgstr "BSI Red"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.bsiorange"
+msgstr "BSI Orange"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.bsigreen"
+msgstr "BSI Green"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.queuetake"
+msgstr "Battery Queue Take"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.queuewrongbattery"
+msgstr "Battery Queue Wrong Battery Taken"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.chargingrelay"
+msgstr "Status - Charging"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.autowatering"
+msgstr "Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.alarmrelay2"
+msgstr "Alarm Group B"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.alarmrelay1"
+msgstr "Alarm Group A"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.completerelay"
+msgstr "Status - Complete"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.nonurgentalarm"
+msgstr "Status - Non-Urgent Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.urgentalarm"
+msgstr "Status - Urgent Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.alarmactive"
+msgstr "Status - Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.noalarmactive"
+msgstr "Status - No Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.socabovethreshold1"
+msgstr "State of Charge Above T1"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.socabovethreshold2"
+msgstr "State of Charge Above T2"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.outputassignment.socabovethreshold3"
+msgstr "State of Charge Above T3"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.singleactiveoutput.group1"
+msgstr "Module 1 Simultaneous Output Mode"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.singleactiveoutput.group2"
+msgstr "Module 2 Simultaneous Output Mode"
+
+#: web
+#, i18next-interpolation
+msgid "outputs.queue.buzzerduration"
+msgstr "Wrong Battery Taken Output Duration"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.unassigned"
+msgstr "Unassigned"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input1"
+msgstr "Module 1 Input 1"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input2"
+msgstr "Module 1 Input 2"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input3"
+msgstr "Module 1 Input 3"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input4"
+msgstr "Module 2 Input 1"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input5"
+msgstr "Module 2 Input 2"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.input6"
+msgstr "Module 2 Input 3"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extautowaterbutton"
+msgstr "Manual Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extidentifybutton"
+msgstr "Identify Charger"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extequalisebutton"
+msgstr "Manual Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extstopbutton"
+msgstr "Stop Charge"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extallowcharginginput"
+msgstr "Allow Charging"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extdisallowcharginginput"
+msgstr "Inhibit Charging"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extdrmtriggerinputa"
+msgstr "DRM Input A"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extdrmtriggerinputb"
+msgstr "DRM Input B"
+
+#: web
+#, i18next-interpolation
+msgid "inputs.inputassignment.extdrmtriggerinputc"
+msgstr "DRM Input C"
+
+#: web
+#, i18next-interpolation
+msgid "backlight.activebrightness"
+msgstr "Brightness when front panel in use"
+
+#: web
+#, i18next-interpolation
+msgid "backlight.connectedbrightness"
+msgstr "Brightness when battery connected"
+
+#: web
+#, i18next-interpolation
+msgid "backlight.idlebrightness"
+msgstr "Brightness when no battery connected"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.autowatercomplete"
+msgstr "Auto Water Complete"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.cellimbalance"
+msgstr "Voltage Imbalance"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.eepromfail"
+msgstr "EEPROM Fail"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.equalisecomplete"
+msgstr "Equalize Complete"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.memoryallocationfail"
+msgstr "Memory Allocation Fail"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.stateofchargelow"
+msgstr "State of Charge Low"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.stateofhealthlow"
+msgstr "State of Health Low"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.temperaturehigh"
+msgstr "Temperature High"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.temperaturelow"
+msgstr "Temperature Low"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.temperaturesensorfail"
+msgstr "Temperature Sensor Fail"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.waterlevellow"
+msgstr "Water Level Low"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.canopenfail"
+msgstr "CAN Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.timezonefreqchange"
+msgstr "Time Frequently Changing"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.rtcnotset"
+msgstr "Clock Not Set"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.start"
+msgstr "Date"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.activetime"
+msgstr "Active Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.averagetemperature"
+msgstr "Average Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.chargecapacity"
+msgstr "Total Charge Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.dischargecapacity"
+msgstr "Total Discharge Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.showalarms"
+msgstr "Show Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.hidealarms"
+msgstr "Click to close"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.alarmtriggered"
+msgstr "Alarm triggered"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.alarms"
+msgstr "Alarms"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.empty"
+msgstr "No events found"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.key"
+msgstr "Key"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.nofileselected"
+msgstr "No File Selected"
+
+#: web
+#, i18next-interpolation
+msgid "battery-module.selectfile"
+msgstr "Select a log file to view"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.lifetimecounters"
+msgstr "Lifetime Counters"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.amphourscharged"
+msgstr "Capacity Returned by Charger"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.amphoursdischarged"
+msgstr "Capacity Discharged"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.amphoursregenerated"
+msgstr "Capacity Returned by Regen"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.autowateringcycles"
+msgstr "Auto Watering Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.averagedailycharge"
+msgstr "Average Daily Charge"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.averagedailydischarge"
+msgstr "Average Daily Discharge"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.averagedailyregen"
+msgstr "Average Daily Regen"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.averagestartrate"
+msgstr "Average Start Rate"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.averagetemperature"
+msgstr "Average Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.completecycles"
+msgstr "Complete Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cyclessinceautowatering"
+msgstr "Cycles Since Auto Watering"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cyclessinceimbalancealarmactivated"
+msgstr "Cycles Since Imbalance Alarm Activated"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cyclessincelastequalise"
+msgstr "Cycles Since Last Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cyclessincewaterlevellowactivated"
+msgstr "Cycles Since Water Level Low Activated"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cyclesusingfastchargeprofile"
+msgstr "Cycles Using Fast Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithhighdod"
+msgstr "Cycles With High DOD"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithhightemperature"
+msgstr "Cycles With High Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithimbalancealarm"
+msgstr "Cycles With Imbalance Alarm"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithlongresttime"
+msgstr "Cycles With Long Rest Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithlowdod"
+msgstr "Cycles With Low DOD"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithlowtemperature"
+msgstr "Cycles With Low Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithshortresttime"
+msgstr "Cycles With Short Rest Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.cycleswithwaterlevellow"
+msgstr "Cycles With Water Level Low"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.equalisecycles"
+msgstr "Equalize Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.finishchargetime"
+msgstr "Finish Charge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.lowwaterleveltime"
+msgstr "Low Water Level Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.maximumstartrate"
+msgstr "Maximum Start Rate"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.maximumtemperature"
+msgstr "Maximum Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.minimumstartrate"
+msgstr "Minimum Start Rate"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.minimumtemperature"
+msgstr "Minimum Temperature"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.overdischargetime"
+msgstr "Over Discharge Time"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.totalcycles"
+msgstr "Total Cycles"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.watthourscharged"
+msgstr "Energy Returned by Charger"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.watthoursdischarged"
+msgstr "Energy Discharged"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.watthoursregenerated"
+msgstr "Energy Returned by Regen"
+
+#: web
+#, i18next-interpolation
+msgid "battery-lifetime-counters.weeklyeqfailedcounter"
+msgstr "Weeks With Failed Equalize"
+
+#: web
+#, i18next-interpolation
+msgid "validation.fixed.currentlimit.modulelimit"
+msgstr "Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.fixed.currentlimit.notenoughmodules"
+msgstr "Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.fixed.currentlimit.framesize"
+msgstr "Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.fixed.currentlimit.connector"
+msgstr "Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.fixed.currentlimit.aclimit"
+msgstr "Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage12V.currentlimit.modulelimit"
+msgstr "12V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage12V.currentlimit.notenoughmodules"
+msgstr "12V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage12V.currentlimit.framesize"
+msgstr "12V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage12V.currentlimit.connector"
+msgstr "12V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage12V.currentlimit.aclimit"
+msgstr "12V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage24.currentlimit.modulelimit"
+msgstr "24V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage24.currentlimit.notenoughmodules"
+msgstr "24V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage24.currentlimit.framesize"
+msgstr "24V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage24.currentlimit.connector"
+msgstr "24V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage24.currentlimit.aclimit"
+msgstr "24V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage36.currentlimit.modulelimit"
+msgstr "36V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage36.currentlimit.notenoughmodules"
+msgstr "36V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage36.currentlimit.framesize"
+msgstr "36V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage36.currentlimit.connector"
+msgstr "36V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage36.currentlimit.aclimit"
+msgstr "36V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage48.currentlimit.modulelimit"
+msgstr "48V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage48.currentlimit.notenoughmodules"
+msgstr "48V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage48.currentlimit.framesize"
+msgstr "48V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage48.currentlimit.connector"
+msgstr "48V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage48.currentlimit.aclimit"
+msgstr "48V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage72.currentlimit.modulelimit"
+msgstr "72V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage72.currentlimit.notenoughmodules"
+msgstr "72V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage72.currentlimit.framesize"
+msgstr "72V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage72.currentlimit.connector"
+msgstr "72V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage72.currentlimit.aclimit"
+msgstr "72V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage80.currentlimit.modulelimit"
+msgstr "80V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage80.currentlimit.notenoughmodules"
+msgstr "80V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage80.currentlimit.framesize"
+msgstr "80V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage80.currentlimit.connector"
+msgstr "80V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage80.currentlimit.aclimit"
+msgstr "80V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage96.currentlimit.modulelimit"
+msgstr "96V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage96.currentlimit.notenoughmodules"
+msgstr "96V Validation Failed: Not Enough Modules"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage96.currentlimit.framesize"
+msgstr "96V Validation Failed: Charger Maximum Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage96.currentlimit.connector"
+msgstr "96V Validation Failed: Connector Current Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.autovoltagesense.voltage96.currentlimit.aclimit"
+msgstr "96V Validation Failed: AC Supply Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.charger.ACCurrentLimit"
+msgstr "Validation Failed: AC Current Limit Exceeded"
+
+#: web
+#, i18next-interpolation
+msgid "validation.charger.ModuleType"
+msgstr "Validation Failed: Installed Module Type does not match AC Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "display.alarmlogfilterperiod"
+msgstr "Alarm Log Filter Period"
+
+#: web
+#, i18next-interpolation
+msgid "display.capture_screen"
+msgstr "Capture Screen"
+
+#: web
+#, i18next-interpolation
+msgid "display.demo"
+msgstr "Demonstration Mode"
+
+#: web
+#, i18next-interpolation
+msgid "display.showchargerrestart"
+msgstr "Allow Charger Restart"
+
+#: web
+#, i18next-interpolation
+msgid "display.outputtest"
+msgstr "Allow Output Test"
+
+#: web
+#, i18next-interpolation
+msgid "restapi.translation"
+msgstr "API"
+
+#: web
+#, i18next-interpolation
+msgid "restapi.unlock"
+msgstr "API"
+
+#: web
+#, i18next-interpolation
+msgid "chargelog.acceptablealarms.translation"
+msgstr "Charge Log Graph Mode"
+
+#: web
+#, i18next-interpolation
+msgid "chargelog.acceptablealarms.conventional"
+msgstr "Conventional"
+
+#: web
+#, i18next-interpolation
+msgid "chargelog.acceptablealarms.opportunity"
+msgstr "Opportunity"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.chargername"
+msgstr "Charger Name"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.chargerserialnumber"
+msgstr "Charger Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.firmwareversion"
+msgstr "Firmware Version"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.chargerfirmwareversion"
+msgstr "Charger Firmware Version"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.bmmmodulename"
+msgstr "Battery Module Name"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.bmmserialnumber"
+msgstr "Battery Module Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.bmmfirmwareversion"
+msgstr "Battery Module Firmware Version"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.bmmproductid"
+msgstr "Battery Module Type"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.batteryvoltage"
+msgstr "Battery Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.batterycapacity"
+msgstr "Battery Capacity"
+
+#: web
+#, i18next-interpolation
+msgid "csvexport.downloadtime"
+msgstr "Log Download Time"
+
+#: web
+#, i18next-interpolation
+msgid "soc.threshold1"
+msgstr "State of Charge Condition Threshold 1"
+
+#: web
+#, i18next-interpolation
+msgid "soc.threshold2"
+msgstr "State of Charge Condition Threshold 2"
+
+#: web
+#, i18next-interpolation
+msgid "soc.threshold3"
+msgstr "State of Charge Condition Threshold 3"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.settings"
+msgstr "Webserver Settings"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.http.enable"
+msgstr "HTTP Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.http.port"
+msgstr "HTTP Port"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.http.redirect"
+msgstr "Redirect HTTP to HTTPS"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.https.enable"
+msgstr "HTTPS Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "webserver.https.port"
+msgstr "HTTPS Port"
+
+#: web
+#, i18next-interpolation
+msgid "bsi.mode.translation"
+msgstr "BSI Mode"
+
+#: web
+#, i18next-interpolation
+msgid "bsi.mode.normal"
+msgstr "Original"
+
+#: web
+#, i18next-interpolation
+msgid "bsi.mode.updated2023"
+msgstr "Updated"
+
+#: web
+#, i18next-interpolation
+msgid "navitas"
+msgstr "Navitas"
+
+#: web
+#, i18next-interpolation
+msgid "triathlon"
+msgstr "Triathlon"
+
+#: web
+#, i18next-interpolation
+msgid "triathlon_crown"
+msgstr "V-Force"
+
+#: web
+#, i18next-interpolation
+msgid "enatel"
+msgstr "Enatel"
+
+#: web
+#, i18next-interpolation
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+#: web
+#, i18next-interpolation
+msgid "days:hh:mm:ss"
+msgstr "days:hh:mm:ss"
