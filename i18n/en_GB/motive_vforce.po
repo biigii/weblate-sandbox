@@ -1,0 +1,940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English (UK) (Motive)"
+"Report-Msgid-Bugs-To: behshad.ghorbani@enatel.net"
+"POT-Creation-Date: Tuesday, 06 August 2024 10:22:59"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: Behshad Ghorbani <behshad.ghorbani@enatel.net>"
+"Language-Team: Enatel"
+"Language: en"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=2; plural=n != 1"
+"X-Generator: Weblate 4.11.2"
+
+
+#: web
+#, i18next-interpolation
+msgid "apc.continuechargeoncommserror"
+msgstr "Continue On BMID Communications Error"
+
+#: web
+#, i18next-interpolation
+msgid "apc.autobypass"
+msgstr "Fallback Without Intervention"
+
+#: web
+#, i18next-interpolation
+msgid "apc.skipfirstprofile"
+msgstr "Use Secondary Profile Only"
+
+#: web
+#, i18next-interpolation
+msgid "apc.promptforchargerconfig"
+msgstr "Fallback Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "apc.maxcurrentmargin"
+msgstr "Charge Current Margin"
+
+#: web
+#, i18next-interpolation
+msgid "apc.upgradedelaytime"
+msgstr "Automatic Firmware Upgrade Delay"
+
+#: web
+#, i18next-interpolation
+msgid "apc.voltagethreshold"
+msgstr "BMID Voltage Margin"
+
+#: web
+#, i18next-interpolation
+msgid "alarms.chargeralarms.apccommunicationsfailed.translation"
+msgstr "BMID Communications Fail"
+
+#: web
+#, i18next-interpolation
+msgid "stages.23"
+msgstr "BMID Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "bluetooth.bmm.enable"
+msgstr "Bluetooth Connectivity"
+
+#: web
+#, i18next-interpolation
+msgid "bluetooth.bmm.unlock"
+msgstr "Bluetooth"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.commserror"
+msgstr "CAN bus communications error"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.nopdochange"
+msgstr "No recent change in CAN PDO data detected"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.readerror"
+msgstr "Failed to read CAN battery parameter"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.writeerror"
+msgstr "Failed to write CAN battery parameter"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.searchfail"
+msgstr "Battery connected but no CAN traffic detected"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.protocolrevision"
+msgstr "Battery protocol revision level not valid"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.nmterror"
+msgstr "CANopen state changed to pre-operational due to NMT message"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.bmmcommserror"
+msgstr "BMID communications error"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.comms.initfail"
+msgstr "CAN charge initialization failed"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.validation.invalid"
+msgstr "Could not identify valid CAN protocol from received CAN traffic"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.battery.error"
+msgstr "Battery sent an error"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.charge.current"
+msgstr "Current measured by charger out of sync with the batteries current measurement"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.charge.voltage"
+msgstr "Voltage measured by charger out of sync with the batteries voltage measurement"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.teamed.leader"
+msgstr "Teamed charge primary charger reported an error"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.teamed.follower"
+msgstr "Teamed charge secondary charger reported an error"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.teamed.unexpectedcharger"
+msgstr "Unexpected charger was detected on the CAN bus"
+
+#: web
+#, i18next-interpolation
+msgid "bms.endreason.teamed.inprogress"
+msgstr "Teamed charge already in progress"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.translation"
+msgstr "BMID Fallback"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.autovenabled"
+msgstr "Allow Auto-V Fallback"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.none"
+msgstr "None"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.bmid"
+msgstr "BMID Only"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.bmidautov"
+msgstr "BMID and Auto-V"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.bmidfallback.disabled_message"
+msgstr "BMID fallback disabled while teamed charging is enabled."
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.translation"
+msgstr "Bit Rate"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.automatic"
+msgstr "Search All Bit Rates"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.125000"
+msgstr "125000"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.250000"
+msgstr "250000"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.500000"
+msgstr "500000"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudratearray.1000000"
+msgstr "1000000"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.id"
+msgstr "Battery ID"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.serialnumber"
+msgstr "Battery Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.nodeid"
+msgstr "Battery Node ID"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.baudrate"
+msgstr "Bit Rate"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.canmaximumcurrent"
+msgstr "CAN Enabled Current Limit"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.enableprotocolone"
+msgstr "Enable CAN Protocol One"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.enableprotocoltwo"
+msgstr "Enable CAN Protocol Two"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.enableprotocolthree"
+msgstr "Enable CAN Protocol Three"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.protocol"
+msgstr "CAN Protocol"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.protocolone"
+msgstr "CAN Protocol"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.protocoltwo"
+msgstr "CAN Protocol"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.protocolthree"
+msgstr "CAN Protocol"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.12vpilotsignalone"
+msgstr "Pilot Signal Type"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.12vpilotsignaltwo"
+msgstr "Pilot Signal Type"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.12vpilotsignalthree"
+msgstr "Pilot Signal Type"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.canterminationdefault"
+msgstr "CAN Termination During Initialisation"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.canterminationone"
+msgstr "CAN Bus Termination"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.canterminationtwo"
+msgstr "CAN Bus Termination"
+
+#: web
+#, i18next-interpolation
+msgid "can.battery.canterminationthree"
+msgstr "CAN Bus Termination"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype.Fixed"
+msgstr "Fixed"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype.BMID"
+msgstr "BMID"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['BMID Fallback']"
+msgstr "BMID (Fallback)"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['BMID Bypass']"
+msgstr "Fixed (Fallback)"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype.Auto-Voltage"
+msgstr "Auto-Voltage"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['Auto-Voltage Fallback']"
+msgstr "Auto-Voltage (Fallback)"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['Li BMID']"
+msgstr "BMID-CAN"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['Li BMID - Leader']"
+msgstr "BMID-CAN - Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['Li BMID - Follower']"
+msgstr "BMID-CAN - Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype.BMS"
+msgstr "CAN"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['BMS - Leader']"
+msgstr "CAN - Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "chargetype['BMS - Follower']"
+msgstr "CAN - Teamed Charge"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.fixed"
+msgstr "Fixed"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.bmid"
+msgstr "BMID"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.can"
+msgstr "CAN"
+
+#: web
+#, i18next-interpolation
+msgid "configuration.autovoltage"
+msgstr "Auto-V"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.bmconfiguration"
+msgstr "Battery Module Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.dateinstalled"
+msgstr "Date Installed"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.deleteprofile"
+msgstr "Delete V-HFM³ Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.chargeprofile"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.vhfm3"
+msgstr "V-HFM³ Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.vhfm"
+msgstr "V-HFM Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.electrolyte_sensor_fitted"
+msgstr "Electrolyte Sensor Fitted"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.installationoptions"
+msgstr "Installation options"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.enabled"
+msgstr "Enabled"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.midpoint_v_sensor_fitted"
+msgstr "Midpoint V Sensor Fitted"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.external_temperature_sensor_fitted"
+msgstr "Temperature Sensor Fitted"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.swap_current_sensor_direction"
+msgstr "Swap Current Sensor Direction"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.state_of_charge"
+msgstr "State Of Charge Monitoring"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.state_of_health"
+msgstr "State Of Health Monitoring"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.time_zone_updated_disabled"
+msgstr "Overwrite with Timezone of Connected Charger"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.use_dual_connector_flag"
+msgstr "Use Charger Current for Dual Connector Charge Only"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.load"
+msgstr "Load from File"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.read"
+msgstr "Read Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.write"
+msgstr "Write Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.saveconfig"
+msgstr "Save to File"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.info"
+msgstr "Only use this setting when it is impractical to install the sensor in the correct direction."
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.primaryprofile"
+msgstr "Primary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.secondaryprofile"
+msgstr "Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.readsuccess"
+msgstr "Configuration Read From Battery Module"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.legacyfailed"
+msgstr "Could Not Write G2 APC Profiles"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.profilefailed"
+msgstr "Could Not Write V-HFM³ Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.nodesfailed"
+msgstr "Could not write Values to Battery Module"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.writesuccess"
+msgstr "Successfully Updated the Battery Module Configuration"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.deleteprofilefailed"
+msgstr "Could Not Delete V-HFM³ Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.deleteprofilesuccess"
+msgstr "Successfully Cleared V-HFM³ Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.startcurrent"
+msgstr "Starting Rate"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.finishcurrent"
+msgstr "Finishing Rate"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.secondary_profile_delay"
+msgstr "Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.logserased"
+msgstr "BMID Logs Erased"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.newinstallationtitle"
+msgstr "Is this a new installation?"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.newinstallationmsg"
+msgstr "Selecting 'New Installation' will update the installation date and allow logs to be erased. Selecting 'Existing Installation' will not modify installation date or erase logs"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.newinstallation"
+msgstr "New Installation"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.existinginstallation"
+msgstr "Existing Installation"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.eraselogtitle"
+msgstr "Erase BMID Logs?"
+
+#: web
+#, i18next-interpolation
+msgid "batteryconfiguration.eraselogmessage"
+msgstr "Erasing BMID can take up to 1 minute. Please do not remove power or disconnect from charger during this time."
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.title"
+msgstr "BMID Configuration Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.empty"
+msgstr "There are no BMID Configuration Logs for this Period"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.showall"
+msgstr "Show All Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.timestamp"
+msgstr "Connected Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.batteryname"
+msgstr "Battery Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.batterytype"
+msgstr "Battery Type"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.company"
+msgstr "Company"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.location"
+msgstr "Location"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.dateinstalled"
+msgstr "Date Installed"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.swversion"
+msgstr "Software Version"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.serialnumber"
+msgstr "Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.productid"
+msgstr "BMID Type"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.ratedvoltage"
+msgstr "Battery Voltage (V)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.ratedcapacity"
+msgstr "Battery Capacity (Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.cellcount"
+msgstr "Cell Count"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.profilegroup"
+msgstr "Charge Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.startcurrent"
+msgstr "Starting Rate (A/100Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.finishcurrent"
+msgstr "Finishing Rate (A/100Ah)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.secondaryprofiledelay"
+msgstr "Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_primaryprofilename"
+msgstr "V-HFM Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_primarystartingrate"
+msgstr "V-HFM Starting Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondaryprofilename"
+msgstr "V-HFM Secondary Profile Name"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondarystartingrate"
+msgstr "V-HFM Secondary Starting Current (A)"
+
+#: web
+#, i18next-interpolation
+msgid "ui.bmmconfiglog.g2_secondaryprofiledelay"
+msgstr "V-HFM Delay to Secondary Profile"
+
+#: web
+#, i18next-interpolation
+msgid "ui.chargelog.serialnumber"
+msgstr "BMID Serial Number"
+
+#: web
+#, i18next-interpolation
+msgid "ui.analysislog.title"
+msgstr "Analysis Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.analysislog.charger"
+msgstr "Export Charge Logs for Analysis"
+
+#: web
+#, i18next-interpolation
+msgid "ui.analysislog.bmm"
+msgstr "Export BMID Logs for Analysis"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.chargelog"
+msgstr "Loading Charge Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.chargelogcan"
+msgstr "Loading CAN Charge Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.bmmconfiglog"
+msgstr "Loading BMID Configuration Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.battery-charge-log"
+msgstr "Loading Charge Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.auditlogs"
+msgstr "Loading Audit Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.batteryqueuelogs"
+msgstr "Loading Battery Queue Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.modulealarmlog"
+msgstr "Loading Module Alarm Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.battery-daily-log"
+msgstr "Loading Daily Logs"
+
+#: web
+#, i18next-interpolation
+msgid "ui.loading.translation"
+msgstr "loading"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.translation"
+msgstr "Battery Modules"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.scan"
+msgstr "Refresh"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.scanning"
+msgstr "Scanning"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.scanningextd"
+msgstr "Scanning for Battery Modules"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.connected"
+msgstr "Connected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.chargerconnected"
+msgstr "Reserved for BMID Charging"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.connectingto"
+msgstr "Connecting To"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.disconnectingfrom"
+msgstr "Disconnecting From"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.bmm.warning"
+msgstr "User connection disabled while battery is connected"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.self"
+msgstr "Reports"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.activity-log"
+msgstr "Alarm Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.charge-log"
+msgstr "Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.charge-log-can"
+msgstr "CAN Charge Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.bmm-config-log"
+msgstr "BMID Configuration Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.module-alarm-log"
+msgstr "Module Alarm Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.audit-log"
+msgstr "Audit Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.battery-queue-log"
+msgstr "Battery Queue Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.demand-response-log"
+msgstr "Demand Response Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.sd-card-log"
+msgstr "SD Card Log"
+
+#: web
+#, i18next-interpolation
+msgid "ui.menu.reports.time"
+msgstr "Time"
+
+#: web
+#, i18next-interpolation
+msgid "ui.productid.MPBMU"
+msgstr "BMID"
+
+#: web
+#, i18next-interpolation
+msgid "ui.productid.PbBMID"
+msgstr "BMID-FCP"
+
+#: web
+#, i18next-interpolation
+msgid "ui.productid.LiBMID"
+msgstr "BMID-CAN"
+
+#: web
+#, i18next-interpolation
+msgid "ui.productid.PSBMID"
+msgstr "BMID-PSD"
+
+#: web
+#, i18next-interpolation
+msgid "bmmupgrade.updatefirmware"
+msgstr "Update BMID Firmware"
+
+#: web
+#, i18next-interpolation
+msgid "bmmupgrade.startupgrade"
+msgstr "Start Update"
+
+#: web
+#, i18next-interpolation
+msgid "bmmupgrade.startupgrademsg"
+msgstr "Update the BMID to the version available on the charger"
+
+#: web
+#, i18next-interpolation
+msgid "bmmupgrade.startupgradeprompt"
+msgstr "Are you sure you want to update the BMID Firmware?"
+
+#: web
+#, i18next-interpolation
+msgid "bmmupgrade.noupdatemsg"
+msgstr "No Update Available"
+
+#: web
+#, i18next-interpolation
+msgid "mp42"
+msgstr "MP353"
+
+#: web
+#, i18next-interpolation
+msgid "mp44"
+msgstr "MP355"
+
+#: web
+#, i18next-interpolation
+msgid "mp46"
+msgstr "MP357"
+
+#: web
+#, i18next-interpolation
+msgid "mp42g"
+msgstr "MP342G"
