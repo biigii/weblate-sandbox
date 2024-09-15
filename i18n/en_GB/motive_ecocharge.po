@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: English (UK) (EM4x)\n"
+"Project-Id-Version: English (GB) (EM4x)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-17 09:16+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
