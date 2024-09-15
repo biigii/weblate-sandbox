@@ -11,7 +11,7 @@ msgstr ""
 
 #, i18next-interpolation
 msgid "access point"
-msgstr "Point d'accès"
+msgstr "Point d'accès I just changed this"
 
 #, i18next-interpolation
 msgid "charger"
