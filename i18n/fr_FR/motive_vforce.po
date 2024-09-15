@@ -13,3 +13,22 @@ msgstr ""
 msgid "access point"
 msgstr "Something else"
 
+#, i18next-interpolation
+msgid "TEMPVALUE"
+msgstr "Entrées de température"
+
+#, i18next-interpolation
+msgid "ui.boolean"
+msgstr "booléen"
+
+#, i18next-interpolation
+msgid "ui.clearshutdownlatch.low"
+msgstr "Effacer le loquet d'arrêt"
+
+#, i18next-interpolation
+msgid "ui.ignored"
+msgstr "Ignoré"
+
+#, i18next-interpolation
+msgid "ui.latest"
+msgstr "Dernier"
