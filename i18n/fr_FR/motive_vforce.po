@@ -12,3 +12,8 @@ msgstr ""
 #, i18next-interpolation
 msgid "access point"
 msgstr "Something else"
+
+
+#, i18next-interpolation
+msgid "access.point.new.string"
+msgstr "Something else"
