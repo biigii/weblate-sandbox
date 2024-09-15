@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-12 20:15+0000\n"
+"Last-Translator: behshad.ghorbani <behshad.ghorbani@enatel.net>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+#, i18next-interpolation
+msgid "access point"
+msgstr "Point d'accès"
+
+#, i18next-interpolation
+msgid "charger"
+msgstr "Chargeur"
+
+#, i18next-interpolation
+msgid "TEMPVALUE"
+msgstr "Entrées de température"
+
+#, i18next-interpolation
+msgid "ui.boolean"
+msgstr "booléen"
+
+#, i18next-interpolation
+msgid "ui.clearshutdownlatch.low"
+msgstr "Effacer le loquet d'arrêt"
+
+#, i18next-interpolation
+msgid "ui.ignored"
+msgstr "Ignoré"
+
+#, i18next-interpolation
+msgid "ui.latest"
+msgstr "Dernier"
