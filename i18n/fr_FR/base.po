@@ -10,10 +10,6 @@ msgstr ""
 "X-Generator: Weblate 4.12.2\n"
 
 #, i18next-interpolation
-msgid "access point"
-msgstr "Point d'accès I just changed this"
-
-#, i18next-interpolation
 msgid "charger"
 msgstr "Chargeur"
 
